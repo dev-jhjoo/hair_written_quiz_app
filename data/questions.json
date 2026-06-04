@@ -1,0 +1,5744 @@
+{
+  "examTitle": "미용사(일반) 필기 기출문제",
+  "description": "Uploaded PDF question bank converted for a static quiz web app.",
+  "totalQuestions": 300,
+  "rounds": [
+    {
+      "id": "20100711",
+      "date": "2010-07-11",
+      "title": "2010-07-11 미용사(일반) 필기",
+      "pdf": "pdfs/20100711.pdf",
+      "originalName": "미용사(일반)20100711(학생용).pdf"
+    },
+    {
+      "id": "20101003",
+      "date": "2010-10-03",
+      "title": "2010-10-03 미용사(일반) 필기",
+      "pdf": "pdfs/20101003.pdf",
+      "originalName": "미용사(일반)20101003(학생용).pdf"
+    },
+    {
+      "id": "20110417",
+      "date": "2011-04-17",
+      "title": "2011-04-17 미용사(일반) 필기",
+      "pdf": "pdfs/20110417.pdf",
+      "originalName": "미용사(일반)20110417(학생용).pdf"
+    },
+    {
+      "id": "20110731",
+      "date": "2011-07-31",
+      "title": "2011-07-31 미용사(일반) 필기",
+      "pdf": "pdfs/20110731.pdf",
+      "originalName": "미용사(일반)20110731(학생용).pdf"
+    },
+    {
+      "id": "20111009",
+      "date": "2011-10-09",
+      "title": "2011-10-09 미용사(일반) 필기",
+      "pdf": "pdfs/20111009.pdf",
+      "originalName": "미용사(일반)20111009(학생용).pdf"
+    }
+  ],
+  "questions": [
+    {
+      "id": "20100711-01",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 1,
+      "question": "신징(singeing)의 목적에 해당하지 않는 것은?",
+      "choices": [
+        "불필요한 두발을 제거하고 건강한 두발의 순조로운 발육 을 조장한다.",
+        "잘라지거나 갈라진 두발로부터 영양물질이 흘러나오는 것 을 막는다.",
+        "양이 많은 두발에 숱을 쳐내는 것이다.",
+        "온열자극에 의해 두부의 혈액순환을 촉진시킨다."
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-02",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 2,
+      "question": "브러쉬의 종류에 따른 사용목적이 틀린 것은?",
+      "choices": [
+        "덴멘 브러쉬는 열에 강하여 모발에 텐션과 볼륨감을 주는 데 사용한다.",
+        "롤 브러쉬는 롤의 크기가 다양하고 웨이브를 만들기에 적 합니다.",
+        "스켈톤 브러쉬는 여성헤어스타일이나 긴 머리 헤어스타일 정동에 주로 사용된다.",
+        "S영 브러쉬는 바람머리 같은 방향성을 살린 헤어스타일 정돈에 적합하다."
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-03",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 3,
+      "question": "블런트 커팅과 같은 뜻을 가진 것은?",
+      "choices": [
+        "프레 커트",
+        "애프터 커트",
+        "클럽 커트",
+        "드라이 커트"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-04",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 4,
+      "question": "퍼머넌트 웨이브의 제2액 주제로서 취소산나트륨과 취소산칼 륨은 몇 %의 적정 수용액을 만들어서 사용하는가?",
+      "choices": [
+        "1~2 %",
+        "3~5 %",
+        "5~7 %",
+        "7~9%"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-05",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 5,
+      "question": "베이스(base)는 컬 스트랜드의 근원에 해당 된다. 다음 중 오 블롱 (oblong)베이스는 어느 것인가?",
+      "choices": [
+        "오형 베이스",
+        "정방형 베이스",
+        "장방형 베이스",
+        "아크 베이스"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-06",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 6,
+      "question": "다음 중 손톱의 상조피를 자르는 가위는?",
+      "choices": [
+        "폴리쉬 리무버",
+        "큐티클 니퍼즈",
+        "큐티클 푸셔",
+        "네일 래커"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-07",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 7,
+      "question": "원랭스(one length)커트형에 해당되지 않는 것은?",
+      "choices": [
+        "평행보브형(parallel bob style)",
+        "이사도라형(isadora style)",
+        "스파니엘형(spaniel style)",
+        "레이어형(layer style)"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-08",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 8,
+      "question": "조선시대 후반기에 유행하였던 일반 부녀자들의 머리 형태 는?",
+      "choices": [
+        "쪽진 머리",
+        "푼기명 머리",
+        "쌍쌍투 머리",
+        "귀밑 머리"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-09",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 9,
+      "question": "콜드 퍼머넌트 웨이빙(cold permanent waving)시 비닐캡 (vinyl cap)을 씌우는 목적 및 이유에 해당되지 않는 것은?",
+      "choices": [
+        "라논린(lanolin)의 약효를 높여주므로 제1액의 피부염 유 발 위험을 줄인다.",
+        "체온의 방산(放散)을 막아 솔루션 (solution)의 작용을 촉 진한다.",
+        "퍼머넌트액의 작용이 두발 전체에 골고루 진행되도록 돕 는다.",
+        "휘발성 알칼리(암모니아 가스)의 산일(散逸)작용을 방지한 다."
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-10",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 10,
+      "question": "물결상이 극단적으로 많은 웨이브로 곱슬곱슬하게 된 퍼머 넌트의 두발에서 주로 볼 수 있는 것은?",
+      "choices": [
+        "와이드 웨이브",
+        "새도우 웨이브",
+        "내로우 웨이브",
+        "마샬웨이브"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-11",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 11,
+      "question": "두발을 윤곽 있게 살려 목덜미(nape)에서 정수리(back)쪽으 로 올라가면서 두발에 단차를 주어 커트하는 것은?",
+      "choices": [
+        "원랭스 커트",
+        "쇼트 헤어 커트",
+        "그라데이션 커트",
+        "스퀘어 커트"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-12",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 12,
+      "question": "고대 중국 당나라시대의 메이크업과 가장 거리가 먼 것은?",
+      "choices": [
+        "백분, 연지로 얼굴형 부각",
+        "액황을 이마에 발라 입체감 살림",
+        "10가지 종류의 눈썹모양으로 개성을 표현",
+        "일본에서 유입된 가부끼 화장이 서민에게 까지 성행"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-13",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 13,
+      "question": "헤어파팅(hair parting) 중 후두부를 정중선(正中線)으로 나 눈 파트는?",
+      "choices": [
+        "센터 파트(center part)",
+        "스퀘어 파트(squarepart)",
+        "카우릭 파트(cowlickpart)",
+        "센터 백 파트(center backpart)"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-14",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 14,
+      "question": "마샬 웨이브에서 건강모인 경우에 아이론의 적정온도는?",
+      "choices": [
+        "80~100℃",
+        "100~120℃",
+        "120~140℃",
+        "140~160℃"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-15",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 15,
+      "question": "퍼머넌트 웨이브 후 두발이 자지러지는 원인이 아닌 것은?",
+      "choices": [
+        "사전 커트시 두발 끝을 심하게 테이퍼한 경우",
+        "로드의 굵기가 너무 가는 것을 사용한 경우",
+        "와인딩시 텐션을 주지 않고 느슨하게 한 경우",
+        "오버 프로세싱을 하지 않은 경우"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-16",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 16,
+      "question": "퍼머넌트 웨이브가 잘 나오지 않은 경우가 아닌 것은?",
+      "choices": [
+        "와인딩시 텐션을 주어 말았을 경우",
+        "사전 샴푸시 비누와 경수로 샴푸하여 두발에 금속염이 형성된 경우",
+        "두발이 저항모이거나 불수성모로 경모인 경우",
+        "오버 프로세싱으로 시스틴이 지나지게 파괴된 경우"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-17",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 17,
+      "question": "다음 중 비듬제거 샴푸로서 가장 적당한 것은?",
+      "choices": [
+        "핫오일 샴푸",
+        "드라이 샴푸",
+        "댄드러프 샴푸",
+        "플레인 샴푸"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-18",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 18,
+      "question": "헤어 블리치제의 산화제로써 오일 베이스제는 무엇에 유황 유가 혼합되는 것인가?",
+      "choices": [
+        "과붕산나트륨",
+        "탄산마그네슘",
+        "라놀린",
+        "과산화수소수"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-19",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 19,
+      "question": "브러시의 손질법으로 부적당한 것은?",
+      "choices": [
+        "보통 비눗물이나 탄산소다수에 담그고 부드러운 털은 손 으로 가볍게 비벼 빤다.",
+        "털이 빳빳한 것은 세정 브러시로 닦아낸다.",
+        "털이 위로 가도록 하여 햇볕에 말린다.",
+        "소독방법으로 석탄산수를 사용해도 된다."
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-20",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 20,
+      "question": "다음 샴푸 시술 시의 주의 사항으로 틀린 것은?",
+      "choices": [
+        "손님의 의상이 젖지 않게 신경을 쓴다.",
+        "두발을 적시기 전에 물의 온도를 점검한다.",
+        "손톱으로 두피를 문지르며 비빈다.",
+        "다른 손님에게 사용한 타올은 쓰지 않는다."
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-21",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 21,
+      "question": "법정 전염병 중 제3군 전염병에 속하는 것은?",
+      "choices": [
+        "후천성면역결핍증",
+        "장티푸스",
+        "일본뇌염",
+        "B형 간염"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-22",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 22,
+      "question": "하수오염이 심할수록 BOD는 어떻게 되는가?",
+      "choices": [
+        "수치가 낮아진다.",
+        "수치가 높아진다.",
+        "아무런 영향이 없다.",
+        "높아졌다 낮아졌다 반복한다."
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-23",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 23,
+      "question": "분뇨의 비위생적 처리로 오염될 수 있는 기생충으로 가장 거리가 먼 것은?",
+      "choices": [
+        "회충",
+        "사상충",
+        "십이지장충",
+        "편충"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-24",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 24,
+      "question": "대기오염에 영향을 미치는 기상조건으로 가장 관계가 큰 것은?",
+      "choices": [
+        "강우, 강설",
+        "고온, 고습",
+        "기온역전",
+        "저기압"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-25",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 25,
+      "question": "다음 중 환자의 격리가 가장 중요한 관리방법이 되는 것은?",
+      "choices": [
+        "파상풍, 백일해",
+        "일본뇌염, 성홍열",
+        "결핵, 한센병",
+        "폴리오, 풍진"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-26",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 26,
+      "question": "어류인 송어, 연어 등을 날로 먹었을 때 주로 감염될 수 있는 것은?",
+      "choices": [
+        "갈고리촌충",
+        "긴촌충",
+        "폐디스토마",
+        "선모충"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-27",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 27,
+      "question": "소음이 인체에 미치는 영향으로 가장 거리가 먼 것은?",
+      "choices": [
+        "불안증 및 노이로제",
+        "청력장애",
+        "중이염",
+        "작업능률 저하"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-28",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 28,
+      "question": "음용수의 일반적인 오염지표로 사용되는 것은?",
+      "choices": [
+        "탁도",
+        "일반세균수",
+        "대장균수",
+        "경도"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-29",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 29,
+      "question": "한 국가나 지역사회 간의 보건수준을 비교하는데 사용되는 대표적인 3대 지표는?",
+      "choices": [
+        "영아사망률, 비례사망지수, 평균수명",
+        "영아사망률, 사인별 사망률, 평균수명",
+        "유아사망률, 모성사망률, 비례사망지수",
+        "유아사망률. 사인별 사망률, 영아사망률"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-30",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 30,
+      "question": "산업피로의 본질과 가장 관계가 먼 것은?",
+      "choices": [
+        "생체의 생이적 변화",
+        "피로감각",
+        "산업구조의 변화",
+        "작업량 변화"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-31",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 31,
+      "question": "3% 소독액 1000mL 를 만드는 방법으로 옳은 것은?(단, 소 독액 원액의 농도는 100%이다.)",
+      "choices": [
+        "원액 300mL에 물 700mL를 가한다.",
+        "원액 30mL에 물 970mL를 가한다.",
+        "원액 3mL에 물 997mL를 가한다.",
+        "원액 3mL에 물 1000mL를 가한다."
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-32",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 32,
+      "question": "소독약에 대한 설명 중 적합하지 않은 것은?",
+      "choices": [
+        "소독시간이 적당한 것",
+        "소독 대상물을 손상시키지 않는 소독약을 선택할 것",
+        "인체에 무해하며 취급이 간편할 것",
+        "소독약은 항상 청결하고 밝은 장소에 보관할 것"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-33",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 33,
+      "question": "물리적 살균법에 해당되지 않는 것은?",
+      "choices": [
+        "열을 가한다.",
+        "건조시킨다.",
+        "물을 끓인다.",
+        "포름알데하이드를 사용한다."
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-34",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 34,
+      "question": "비교적 가격이 저렴하고 살균력이 있으며 쉽게 증발되어 잔 여량이 없는 살균제는?",
+      "choices": [
+        "알코올",
+        "요오드",
+        "크레졸",
+        "페놀"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-35",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 35,
+      "question": "질병 발생의 역학적 삼각형 모형에 속하는 요인이 아닌 것은?",
+      "choices": [
+        "병인적 요인",
+        "숙주적 요인",
+        "감염적 요인",
+        "환경적 요인"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-36",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 36,
+      "question": "다음 중 승홍수 사용시 적당하지 않은 것은?",
+      "choices": [
+        "사기 그릇",
+        "금속류",
+        "유리",
+        "에나멜 그릇"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-37",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 37,
+      "question": "다음 미생물 중 크기가 가장 작은 것은?",
+      "choices": [
+        "세균",
+        "곰팡이",
+        "리케차",
+        "바이러스"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-38",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 38,
+      "question": "방역용 석탄산의 가장 적당한 희석농도는?",
+      "choices": [
+        "0.1%",
+        "0.3%",
+        "3.0%",
+        "75%"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-39",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 39,
+      "question": "일광소독법은 햇빛 중의 어떤 영역에 의해 소독이 가능 한 가?",
+      "choices": [
+        "적외선",
+        "자외선",
+        "가시광선",
+        "우주선"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-40",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 40,
+      "question": "다음 소독 방법 중 완전 멸균으로 가장 빠르고 효과적인 방 법은?",
+      "choices": [
+        "유통증기법",
+        "간헐살균법",
+        "고압증기법",
+        "건열 소독"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-41",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 41,
+      "question": "피부의 표피 세포는 대략 몇 주 정도의 교체 주기를 가지고 있는가?",
+      "choices": [
+        "1주",
+        "2주",
+        "3주",
+        "4주"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-42",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 42,
+      "question": "자외선 B는 자외선 A보다 홍반 발생 능력이 몇 배 정도인 가?",
+      "choices": [
+        "10배",
+        "100배",
+        "1000배",
+        "10000배"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-43",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 43,
+      "question": "신체부위 중 피부 두께가 가장 얇은 곳은?",
+      "choices": [
+        "손등 피부",
+        "볼 부위",
+        "눈꺼풀 피부",
+        "둔부"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-44",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 44,
+      "question": "다음 중 알레르기에 의한 피부의 반응이 아닌 것은?",
+      "choices": [
+        "화장품에 의한 피부염",
+        "가구나 의복에 의한 피부질환",
+        "비타민 과다에 의한 피부질환",
+        "내복한 약에 의한 피부질환"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-45",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 45,
+      "question": "다음 사마귀 종류 중 얼굴, 턱, 입 주위와 손등에 잘 발생하 는 것은?",
+      "choices": [
+        "심상성 사마귀",
+        "족저 사마귀",
+        "첨규 사마귀",
+        "편평 사마귀"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-46",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 46,
+      "question": "피부가 추위를 감지하면 근육을 수축시켜 털을 세우게한다. 어떤 근육이 털을 세우게 하는가?",
+      "choices": [
+        "안륜근",
+        "입모근",
+        "전두근",
+        "후두근"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-47",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 47,
+      "question": "단백질의 최종 가수분해 물질은?",
+      "choices": [
+        "지방산",
+        "콜레스테롤",
+        "아미노산",
+        "카노틴"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-48",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 48,
+      "question": "여드름 발생원인과 증상에 대한 것으로 틀린 것은?",
+      "choices": [
+        "호르몬의 불균형",
+        "불규칙한 식생활",
+        "중년 여성에게만 나타남",
+        "주로 사춘기 때 많이 나타남"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-49",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 49,
+      "question": "케라토히알린(keratohyaline)과립은 피부 표피의 어느 층에 주로 존재하는가?",
+      "choices": [
+        "과립층",
+        "유극층",
+        "기저층",
+        "투명층"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-50",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 50,
+      "question": "자외선 차단지수를 무엇이라 하는가?",
+      "choices": [
+        "FDA",
+        "SPF",
+        "SCI",
+        "WHO"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-51",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 51,
+      "question": "이/미용사의 면허증을 대여한 때의 1차 위반 행정처분기준 은?",
+      "choices": [
+        "면허정지 3월",
+        "면허정지 6월",
+        "영업정지 3월",
+        "영업정지 6월"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-52",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 52,
+      "question": "다음 중 이/미용사의 면허를 발급하는 기관이 아닌 것은?",
+      "choices": [
+        "서울시 마포구청장",
+        "제주도 수귀포시장",
+        "인천시 부평구청장",
+        "경기도지사"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-53",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 53,
+      "question": "공중위생업소가 의료법을 위반하여 폐쇄명령을 받았다. 최 소한 어느 정도의 기간이 경과되어야 동일 장소에서 동일영 업이 가능한가?",
+      "choices": [
+        "3개월",
+        "6개월",
+        "9개월",
+        "12개월"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-54",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 54,
+      "question": "이/미용사 면허증을 분실하였을 때 누구에게 재교부 신청을 하여야 하는가?",
+      "choices": [
+        "보건복지부장관",
+        "시/도지사",
+        "시장/군수/구청장",
+        "협회장"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-55",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 55,
+      "question": "이/미용사가 면허증 재교부 신청을 할 수 없는 것은?",
+      "choices": [
+        "면허증을 잃어버린 때",
+        "면허증 기재사항의 변경이 있는 때",
+        "면허증이 못쓰게 된 때",
+        "면허증이 더러운 때"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-56",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 56,
+      "question": "위생관리 등급 공표사항으로 틀린 것은?",
+      "choices": [
+        "시장, 군수, 구청장은 위생서비스 평가결과에 따른 위생 관리등급을 공중위생영업자에게 통보하고 공표한다.",
+        "공중위생영업자는 통보받은 위생관리등급의 표지를 영업 소 출입구에 부착할 수 있다.",
+        "시장, 군수, 구청장은 위생서비스 결과에 따른 위생 관리 등급 우수업소에는 위생감시를 면제할 수 있다.",
+        "시장, 군수, 구청장은 위생서비스평가의 결과에 따른 위 생관리등급별로 영업소에 대한 위생감시를 실시하여야 한다."
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-57",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 57,
+      "question": "다음 중 이용사 또는 미용사의 면허를 취소할 수 있는 대상 에 해당되지 않는 자는?",
+      "choices": [
+        "정신질환자",
+        "감염병환자",
+        "금치산자",
+        "당뇨병환자"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-58",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 58,
+      "question": "공중위생영업을 하고자 하는 위생교육을 언제 받아야 하는 가? (단, 예외 조항은 제외한다.)",
+      "choices": [
+        "영업소 개설을 통보한 후에 위생교육을 받는다.",
+        "영업소를 운영하면서 자유로운 시간에 위생교육을 받는 다.",
+        "영업신고를 하기 전에 미리 위생교육을 받는다.",
+        "영업소 개설 후 3개월 이내에 위생교육을 받는다."
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-59",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 59,
+      "question": "과태료처분에 불복이 있는 자는 그 처분의 고지를 받은 날 부터 며칠 이내에 처분권자에게 이의를 제기할 수 있는가? (오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확 인하시기 바랍니다.)(관련 규정 개정전 문제로 여기서는 기 존 정답인 4번을 누르면 정답 처리됩니다. 자세한 내용은 해설을 참고하세요.)",
+      "choices": [
+        "5일",
+        "10일",
+        "15일",
+        "30일"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20100711-60",
+      "roundId": "20100711",
+      "roundDate": "2010-07-11",
+      "roundTitle": "2010-07-11 미용사(일반) 필기",
+      "number": 60,
+      "question": "시/도지사 또는 시장/군수/구청장은 공중위생관리상 필요하 다고 인정하는 때에 공중위생영업자 등에 대하여 필요한 조 치를 취할 수 있다. 이 조치에 해당하는 것은?",
+      "choices": [
+        "보고",
+        "청문",
+        "감독",
+        "협의"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20100711.pdf",
+      "sourceFile": "미용사(일반)20100711(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-01",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 1,
+      "question": "헤어커팅의 방법 중 테이퍼링(tapering)에는 3가지의 종류가 있다. 이 중에서 노멀테이퍼(normal taper)는?",
+      "choices": [
+        "①번 선택지 - 원본 PDF에서 그림으로 확인",
+        "②번 선택지 - 원본 PDF에서 그림으로 확인",
+        "③번 선택지 - 원본 PDF에서 그림으로 확인",
+        "④번 선택지 - 원본 PDF에서 그림으로 확인"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": true
+    },
+    {
+      "id": "20101003-02",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 2,
+      "question": "조선중엽 상류사회 여성들이 얼굴의 밑화장으로 사용한 기름 은?",
+      "choices": [
+        "동백기름",
+        "콩기름",
+        "참기름",
+        "파마자기름"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-03",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 3,
+      "question": "퍼머넌트 웨이브 시술시 산화제의 역할이 아닌 것은?",
+      "choices": [
+        "퍼머넌트 웨이브의 작용을 계속 진행시 킨다.",
+        "1액의 작용을 멈추게 한다.",
+        "시스틴 결합을 재결합시킨다.",
+        "1액이 작용한 형태의 컬로 고정시킨다."
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-04",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 4,
+      "question": "헤어 컬러링 시 활용되는 색상환에 있어 적색의 보색은?",
+      "choices": [
+        "보라색",
+        "청색",
+        "녹색",
+        "황색"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-05",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 5,
+      "question": "다음 중 모발의 성장단계를 옳게 나타낸 것은?",
+      "choices": [
+        "성장기 → 휴지기 → 퇴화기",
+        "휴지기 → 발생기 → 퇴화기",
+        "퇴화기 → 성장기 → 발생기",
+        "성장기 → 퇴화기 → 휴지기"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-06",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 6,
+      "question": "스탠드업 컬에 있어 루프가 귓바퀴 반대 방향으로 말린 컬 은?",
+      "choices": [
+        "플래트 컬",
+        "포워드 스탠드업 컬",
+        "리버스 스탠드업 컬",
+        "스컬프쳐 컬"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-07",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 7,
+      "question": "헤어 샴푸잉 중 드라이 샴푸 방법이 아닌 것은?",
+      "choices": [
+        "리퀴드 드라이 샴푸",
+        "핫 오일 샴푸",
+        "파우더 드라이 샴푸",
+        "에그 파우더 샴푸"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-08",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 8,
+      "question": "컬의 목적이 아닌 것은?",
+      "choices": [
+        "플러프(fluff)를 만들기 위해서",
+        "웨이브(wave)를 만들기 위해서",
+        "컬러의 표현을 원활하게 하기 위해서",
+        "볼륨을 만들기 위해서"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-09",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 9,
+      "question": "손톱의 상조피를 부드럽게 하기 위해 비눗물을 담는 용기는?",
+      "choices": [
+        "에머리보드",
+        "핑거볼",
+        "네일버퍼",
+        "네일파일"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-10",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 10,
+      "question": "매니큐어(Manicure) 바르는 순서가 옳은 것은?",
+      "choices": [
+        "네일에나멜 → 베이스코트 → 탑코트",
+        "베이스코트 → 네일에나멜 → 탑코트",
+        "탑코트 → 네일에나멜 → 베이스코트",
+        "네일표백제 → 네일에나멜 → 베이스코트"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-11",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 11,
+      "question": "삼한시대의 머리형에 관한 설명으로 틀린 것은?",
+      "choices": [
+        "포로나 노비는 머리를 깎아서 표시했다.",
+        "수장급은 모자를 썼다.",
+        "일반인은 상투를 틀게 했다.",
+        "귀천의 차이가 없이 자유롭게 했다"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-12",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 12,
+      "question": "두상의 특정한 부분에 볼륨을 주기 원할 때 사용되는 헤어 피스(hair piece)는?",
+      "choices": [
+        "위글렛(wiglet)",
+        "스위치(switch)",
+        "폴(fall)",
+        "위그(wig)"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-13",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 13,
+      "question": "커트 시술 시 두부(頭部)를 5등분으로 나누었을 때 관계없 는 명칭은?",
+      "choices": [
+        "톱(top)",
+        "사이드(side)",
+        "헤드(head)",
+        "네이프(nape)"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-14",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 14,
+      "question": "다음 명칭 중 가위에 속하는 것은?",
+      "choices": [
+        "핸들",
+        "피봇",
+        "프롱",
+        "그루브"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-15",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 15,
+      "question": "퍼머약의 제1액 중 티오글리콜산의 적정 농도는?",
+      "choices": [
+        "1 ~ 2%",
+        "2 ~ 7%",
+        "8 ~ 12%",
+        "15 ~ 20%"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-16",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 16,
+      "question": "두피에 지방이 부족하여 건조한 경우에 하는 스캘프 트리트 먼트는?",
+      "choices": [
+        "플레인 스캘프 트리트먼트",
+        "오일리 스캘프 트리트먼트",
+        "드라이 스캘프 트리트먼트",
+        "댄드러프 스캘프 트리트먼트"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-17",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 17,
+      "question": "헤어 블리치 시술상의 주의사항에 해당하지 않는 것은?",
+      "choices": [
+        "미용사의 손을 보호하기 위하여 장갑을 반드시 낀다.",
+        "시술 전 샴푸를 할 경우 브러싱을 하지 않는다.",
+        "두피에 질환이 있는 경우 시술하지 않는다.",
+        "사후손질로서 헤어 리컨디셔닝은 가급적 피하도록 한다."
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-18",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 18,
+      "question": "빗을 천천히 위쪽으로 이동시키면서 가위의 개폐를 재빨리 하여 빗에 끼어있는 두발을 잘라나가는 커팅 기법은?",
+      "choices": [
+        "싱글링(shingling)",
+        "틴닝 시저스(thinning scissors)",
+        "레이저 커트(razor cut)",
+        "슬리더링(slithering)"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-19",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 19,
+      "question": "콜드웨이브(cold wave)시술 후 머리끝이 자지러지는 원인에 해당 되지 않는 것은?",
+      "choices": [
+        "모질에 비하여 약이 강하거나 프로세싱 타임이 길었다.",
+        "너무 가는 로드 (rod)를 사용했다.",
+        "텐션(tension:긴장도)이 약하여 로드에 꼭 감기지 않았 다.",
+        "사전 커트시 머리끝을 테이퍼(taper)하지 않았다."
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-20",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 20,
+      "question": "고대 중국 미용의 설명으로 틀린 것은?",
+      "choices": [
+        "하(夏)나라 시대에 분을, 은(殷)나라의 주 왕 때에는 연 지 화장이 사용되었다.",
+        "아방궁 3천명의 미희들에게 백분과 연지를 바르게 하고 눈썹을 그리게 했다.",
+        "액황이라고 하여 이마에 발라 약간의 입체감을 주었으며 홍장이라고 하여 백분을 바른 후 다시 연지를 덧발랐다.",
+        "두발을 짧게 깎거나 밀어내고 그 위에 일광을 막을 수 있는 대용물로써 가발을 즐겨 썼다."
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-21",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 21,
+      "question": "합병증으로 고환염, 뇌수막염 등이 초래되어 불임이 될 수 도 있는 질환은?",
+      "choices": [
+        "홍역",
+        "뇌염",
+        "풍진",
+        "유행성 이하선염"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-22",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 22,
+      "question": "이상 저온 작업으로 인한 건강 장애인 것은?",
+      "choices": [
+        "참호족",
+        "열경련",
+        "울열증",
+        "열쇠약증"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-23",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 23,
+      "question": "단위 체적 안에 포함된 수분의 절대량을 중량이나 압력으로 표시한 것으로 현재 공기 1m3중에 함유된 수증기량 또는 수 증기 장력을 나타낸 것은?",
+      "choices": [
+        "절대습도",
+        "포화습도",
+        "비교습도",
+        "포차"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-24",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 24,
+      "question": "보균자(Carrier)는 전염병 관리상 어려운 대상이다. 그 이유 와 관계가 가장 먼 것은?",
+      "choices": [
+        "색출이 어려우므로",
+        "활동영역이 넓기 때문에",
+        "격리가 어려우므로",
+        "치료가 되지 않으므로"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-25",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 25,
+      "question": "다음 중 기생충과 전파 매개체의 연결이 옳은 것은?",
+      "choices": [
+        "무구조층-돼지고기",
+        "간디스토마-바다회",
+        "폐디스토마-가재",
+        "광절열두조충-쇠고기"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-26",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 26,
+      "question": "다음 중 공중보건사업의 대상으로 가장 적절한 것은?",
+      "choices": [
+        "성인병 환자",
+        "입원 환자",
+        "암투병 환자",
+        "지역사회 주민"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-27",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 27,
+      "question": "대기오염을 일으키는 원인으로 거리가 가장 먼 것은?",
+      "choices": [
+        "도시의 인구감소",
+        "교통량의 증가",
+        "기계문명의 발달",
+        "중화학공업의 난립"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-28",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 28,
+      "question": "한 나라의 보건수준을 측정하는 지표로서 가장 적절한 것은?",
+      "choices": [
+        "의과대학 설치수",
+        "국민소득",
+        "전염병 발생율",
+        "영아사망율"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-29",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 29,
+      "question": "수인성(水因性) 전염병이 아닌 것은?",
+      "choices": [
+        "일본뇌염",
+        "이질",
+        "콜레라",
+        "장티푸스"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-30",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 30,
+      "question": "법정전염병 중 제3군 전염병에 속하지 않는 것은?(관련 규 정 개정전 문제로 여기서는 기존 정답인 1번을 누르면 정답 처리됩니다. 자세한 내용은 해설을 참고하세요.)",
+      "choices": [
+        "B형 간염",
+        "공수병",
+        "렙토스피라증",
+        "쯔쯔가무시증"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-31",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 31,
+      "question": "비교적 약한 살균력을 작용시켜 병원 미생물의 생활력을 파 괴하여 감염의 위험성을 없애는 조작은?",
+      "choices": [
+        "소독",
+        "고압증기멸균",
+        "방부처리",
+        "냉각처리"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-32",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 32,
+      "question": "금속성 식기, 면 종류의 의류, 도자기의 소독에 적합한 소독 방법은?",
+      "choices": [
+        "화염 멸균법",
+        "건열 멸균법",
+        "소각 소독법",
+        "자비 소독법"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-33",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 33,
+      "question": "소독약품으로서 갖추어야 할 구비조건이 아닌 것은?",
+      "choices": [
+        "안전성이 높을 것",
+        "독성이 낮을 것",
+        "부식성이 강할 것",
+        "융해성이 높을 것"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-34",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 34,
+      "question": "균체의 단백질 응고작용과 관계가 가장 적은 소독약은?",
+      "choices": [
+        "석탄산",
+        "크레졸액",
+        "알콜",
+        "과산화수소수"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-35",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 35,
+      "question": "석탄산계수(페놀계수)가 5일 때 의미하는 살균력은?",
+      "choices": [
+        "페놀보다 5배 높다.",
+        "페놀보다 5배 낮다.",
+        "페놀보다 50배 높다.",
+        "페놀보다 50배 낮다."
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-36",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 36,
+      "question": "소독약을 사용하여 균 자체에 화학반응을 일으켜 세균의 생 활력을 빼앗아 살균하는 것은?",
+      "choices": [
+        "물리적 멸균법",
+        "건열 멸균법",
+        "여과 멸균법",
+        "화학적 살균법"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-37",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 37,
+      "question": "세균들은 외부환경에 대하여 저항하기 위해서 아포를 형성 하는데 다음 중 아포를 형성하지 않는 세균은?",
+      "choices": [
+        "탄저균",
+        "젖산균",
+        "파상풍균",
+        "보툴리누스균"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-38",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 38,
+      "question": "( )안에 알맞은 것은?",
+      "choices": [
+        "0.01",
+        "0.1",
+        "1",
+        "10"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-39",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 39,
+      "question": "미생물의 성장과 사멸에 주로 영향을 미치는 요소로 가장거 리가 먼 것은?",
+      "choices": [
+        "영양",
+        "빛",
+        "온도",
+        "호르몬"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-40",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 40,
+      "question": "다음 중 이·미용실에서 사용하는 수건을 철저하게 소독하지 않았을 때 주로 발생할 수 있는 전염병은?",
+      "choices": [
+        "장티푸스",
+        "트라코마",
+        "페스트",
+        "일본뇌염"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-41",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 41,
+      "question": "비늘모양의 죽은 피부세포가 엷은 회백색 조각으로 되어 떨 어져 나가는 피부층은?",
+      "choices": [
+        "투명층",
+        "유극층",
+        "기저층",
+        "각질층"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-42",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 42,
+      "question": "파장이 가장 길고 인공 선탠 시 활용하는 광선은?",
+      "choices": [
+        "UV - A",
+        "UV - B",
+        "UV - C",
+        "r 선"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-43",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 43,
+      "question": "피부 표피층 중에서 가장 두꺼운 층으로 세포표면에는 가시 모양의 돌기를 가지고 있는 것은?",
+      "choices": [
+        "유극층",
+        "과립층",
+        "각질층",
+        "기저층"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-44",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 44,
+      "question": "피부에는 한선(땀샘) 중 대한선은 어느 부위에서 볼 수 있는 가?",
+      "choices": [
+        "얼굴과 손발",
+        "배와 등",
+        "겨드랑이와 유두 주변",
+        "팔과 다리"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-45",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 45,
+      "question": "혈색을 좋게 하는 철분이 많이 들어있는 식품과 거리가 가 장 먼 것은?",
+      "choices": [
+        "감자",
+        "시금치",
+        "조개류",
+        "소나 닭의 간"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-46",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 46,
+      "question": "피부발진 중 일시적인 증상으로 가려움증을 동반하여 불규 칙적인 모양을 한 피부현상은?",
+      "choices": [
+        "농포",
+        "팽진",
+        "구진",
+        "결절"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-47",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 47,
+      "question": "피부 색소침착에서 과색소 침착 증상이 아닌 것은?",
+      "choices": [
+        "기미",
+        "백반증",
+        "주근깨",
+        "검버섯"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-48",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 48,
+      "question": "화상의 구분 중 홍반, 부종, 통증뿐만 아니라 수포를 형성하 는 것은?",
+      "choices": [
+        "제1도 화상",
+        "제2도 화상",
+        "제3도 화상",
+        "중급 화상"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-49",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 49,
+      "question": "천연보습인자 성분 중 가장 많이 차지하는 것은?",
+      "choices": [
+        "아미노산",
+        "피롤리돈 카르복시산",
+        "젖산염",
+        "포름산염"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-50",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 50,
+      "question": "다음 중 바이러스성 피부 질환은?",
+      "choices": [
+        "기미",
+        "주근깨",
+        "여드름",
+        "단순포진"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-51",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 51,
+      "question": "면허증을 다른 사람에게 대여하여 면허가 취소되거나 정지 명령을 받은 자는 지체 없이 누구에게 면허증을 반납해야 하는가?",
+      "choices": [
+        "시·도지사",
+        "시장·군수·구청장",
+        "보건복지부장관",
+        "경찰서장"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-52",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 52,
+      "question": "이·미용업의 영업자는 연간 몇 시간의 위생교육을 받아야 하는가?",
+      "choices": [
+        "3시간",
+        "8시간",
+        "10시간",
+        "12시간"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-53",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 53,
+      "question": "영업소의 폐쇄명령을 받고도 영업을 하였을 시에 대한 벌칙 기준은?",
+      "choices": [
+        "2년 이하의 징역 또는 3천만 원 이하의 벌금",
+        "1년 이하의 징역 또는 1천만 원 이하의 벌금",
+        "200만 원 이하의 벌금",
+        "100만 원 이하의 벌금."
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-54",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 54,
+      "question": "( ) 안에 알맞은 것은?",
+      "choices": [
+        "위생서비스 수준의 평가",
+        "공중위생감사",
+        "청문",
+        "열람"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-55",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 55,
+      "question": "과태료의 부과·징수 절차로서 틀린 것은?",
+      "choices": [
+        "시장·군수·구청장이 부과·징수한다.",
+        "과태료 처분의 고지를 받은 날부터 30일 이내에 이의를 제기할 수 있다.",
+        "과태료 처분을 받은 k가 이의를 제기한 경우 처분권자는 보건복지부 장관에게 이를 통보한다.",
+        "기간 내 이의제기 없이 과태료를 납부하지 아니한 때에 는 지방세 체납, 처분의 예에 따른다."
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-56",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 56,
+      "question": "이·미용사의 면허증을 다른 사람에게 대여한 때의 1차 위반 행정처분 기준은?",
+      "choices": [
+        "영업정지 2월",
+        "면허정지 2월",
+        "영업정지 3월",
+        "면허정지 3월"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-57",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 57,
+      "question": "공중위생감시원의 자격에 해당되지 않는 자는?",
+      "choices": [
+        "위생사 자격증이 있는 자",
+        "대학에서 미용학을 전공하고 졸업한 자",
+        "외국에서 환경기사의 면허를 받은 자",
+        "3년 이상 공중위생 행정에 종사한 경력 이 있는 자"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-58",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 58,
+      "question": "건전한 영업질서를 위하여 공중위생영업자가 준수하여야 할 사항을 준수하지 아니한 자에 대한 벌칙 기준은?",
+      "choices": [
+        "1년 이하의 징역 또는 1천만 원 이하의 벌금",
+        "6월 이하의 징역 또는 500만 원 이하의 벌금",
+        "3월 이하의 징역 또는 300만 원 이하의 벌금",
+        "300만 원의 과태료"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-59",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 59,
+      "question": "이·미용 업소 내에 게시하지 않아도 되는 것은?",
+      "choices": [
+        "이·미용업 신고증",
+        "개설자의 면허증 원본",
+        "근무자의 면허증 원본",
+        "이·미용요금표"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20101003-60",
+      "roundId": "20101003",
+      "roundDate": "2010-10-03",
+      "roundTitle": "2010-10-03 미용사(일반) 필기",
+      "number": 60,
+      "question": "공중위생영업에 속하지 않는 것은?",
+      "choices": [
+        "식당조리업",
+        "숙박업",
+        "이·미용업",
+        "세탁업"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20101003.pdf",
+      "sourceFile": "미용사(일반)20101003(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-01",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 1,
+      "question": "물에 적신 모발을 와인딩 한 후 퍼머넌트 웨이브 1제를 도포 하는 방법은?",
+      "choices": [
+        "워터래핑",
+        "슬래핑",
+        "스파이럴 랩",
+        "크로키놀 랩"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-02",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 2,
+      "question": "한국 현대 미용사에 대한 설명 중 옳은 것은?",
+      "choices": [
+        "경술국치 이후 일본인들에 의해 미용이 발달했다.",
+        "1933년 일본인이 우리나라에 처음으로 미용원을 열었다.",
+        "해방 전 우리나라 최초의 미용교육기관은 정화고등기술학 교이다.",
+        "오엽주씨가 화신 백화점 내에 미용원을 열었다."
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-03",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 3,
+      "question": "퍼머 제1액 처리에 따른 프로세싱 중 언더 프로세싱의 설명 으로 틀린 것은?",
+      "choices": [
+        "언더프로세싱은 프로세싱 타임 이상으로 제1액을 두발에 방치한 것을 말한다,",
+        "언더프로세싱일 때에는 두발의 웨이브가 거의 나오지 않 는다.",
+        "언더프로세싱일 때에는 처음에 사용한 솔루션 보다 약한 제1액을 다시 사용한다.",
+        "제1액의 처리 후 두발의 테스트컬로 언더프로세싱 여부가 판명된다."
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-04",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 4,
+      "question": "헤어 컬러링 기술에서 만족할 만한 색채효과를 얻기 위해서 는 색채의 기본적인 원리를 이해하고 이를 응용할 수 있어야 하는데 색의 3속성 중의 명도만을 갖고 있는 무채색에 해당 하는 것은?",
+      "choices": [
+        "적색",
+        "황색",
+        "청색",
+        "백색"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-05",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 5,
+      "question": "아이론의 열을 이용하여 웨이브를 형성하는 것은?",
+      "choices": [
+        "마셀 웨이브",
+        "콜드 웨이브",
+        "핑거 웨이브",
+        "새도우 웨이브"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-06",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 6,
+      "question": "다음 중 산성 린스의 종류가 아닌 것은?",
+      "choices": [
+        "레몬 린스",
+        "비니거 린스",
+        "오일 린스",
+        "구연산 린스"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-07",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 7,
+      "question": "다음 중 블런트 커트와 같은 의미인 것은?",
+      "choices": [
+        "클럽커트",
+        "싱글링",
+        "클리핑",
+        "트리밍"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-08",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 8,
+      "question": "브러시 세정법으로 옮은 것은?",
+      "choices": [
+        "세정 후 털은 아래로 하여 양지에서 말린다.",
+        "세정 후 털은 아래로 하여 응달에서 말린다.",
+        "세정 후 털은 위로 하여 양지에서 말린다.",
+        "세정 후 털은 위로 하여 응달에서 말린다."
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-09",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 9,
+      "question": "콜드 퍼머넌트시 제1액을 바르고 비닐캡을 씌우는 이유로 거 리가 가장 먼 것은?",
+      "choices": [
+        "체온으로 솔루션의 작용을 빠르게 하기 위하여",
+        "제1액의 작용이 두발 전체에 골고루 행하여지게 하기 위 하여",
+        "휘발성 알칼리의 휘산작용을 방지하기 위하여",
+        "두발을 구부러진 형태대로 정착시키기 위하여"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-10",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 10,
+      "question": "미용의 특수성에 해당하지 않는 것은?",
+      "choices": [
+        "자유롭게 소재를 선택한다.",
+        "시간적 제한을 받는다.",
+        "손님의 의사를 존중한다.",
+        "여러 가지 조건에 제한을 받는다."
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-11",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 11,
+      "question": "염모제로서 해나를 처음으로 사용했던 나라는?",
+      "choices": [
+        "그리스",
+        "이집트",
+        "로마",
+        "중국"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-12",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 12,
+      "question": "빗의 보관 및 관리에 관한 설명 중 옳은 것은?",
+      "choices": [
+        "빗은 사용 후 소독액에 계속 담가 보관한다.",
+        "소독액에서 빗을 꺼낸 후 물로 닦지 않고 그대로 사용해 야한다.",
+        "증기소독은 자주 해주는 것이 좋다.",
+        "소독액은 석탄산수 ,크레졸비누액 등이 좋다."
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-13",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 13,
+      "question": "유기합성 염모제에 대한 설명 중 틀린 것은?",
+      "choices": [
+        "유기합성 염모제 제품은 알칼리성의 제1액과 산화제인 제 2액으로 나누어진다.",
+        "제1액은 산화염료가 암모니아수에 녹아있다.",
+        "제1액의 용액은 산성을 띄고 있다.",
+        "제2액은 과산화수소로서 멜라닌색소의 파괴와 산화염료 를 산화시켜 발색시킨다."
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-14",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 14,
+      "question": "비듬이 없고 두피가 정상적인 상태일 때 실시하는 것은?",
+      "choices": [
+        "댄드러프 스캘프 트린트먼트",
+        "오일리 스캘프 트린트 먼트",
+        "플레인 스캘프 트린트 먼트",
+        "드라이 스캘프 트린트 먼트"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-15",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 15,
+      "question": "땋거나 스타일링 하기에 쉽도록 3가닥 혹은 1가닥으로 만들 어진 헤어피스는?",
+      "choices": [
+        "웨프트",
+        "스위치",
+        "폴",
+        "위글렛"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-16",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 16,
+      "question": "다음 중 옳게 짝지어진 것은?",
+      "choices": [
+        "아이론 웨이브- 1830년 프랑스의 무슈끄로와뜨",
+        "콜드 웨이브 - 1936년 영국의 스피크먼",
+        "스파이럴 퍼머넌트 웨이브 - 1925년 영국의 조셉메이어",
+        "크로키놀식 웨이브 - 1875년 프랑스의 마셀그라또"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-17",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 17,
+      "question": "헤어스타일 또는 메이크업에서 개성미를 발위하기 위한 첫 단계는?",
+      "choices": [
+        "구상",
+        "보정",
+        "소재의확인",
+        "제작"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-18",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 18,
+      "question": "두정부의 가마로부터 방사상으로 나눈 파트는?",
+      "choices": [
+        "카우릭 파트",
+        "이어투이어 파트",
+        "센터 파트",
+        "스퀘어 파트"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-19",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 19,
+      "question": "컬의 목적으로 가장 옳은 것은?",
+      "choices": [
+        "텐션, 루프, 스템을 만들기 위해",
+        "웨이브, 볼륨, 플러프를 만들기 위해",
+        "슬라이싱, 스퀴어, 베이스를 만들기 위해",
+        "세팅, 뱅을 만들기 위해"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-20",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 20,
+      "question": "코의 화장법으로 좋지 않은 방법은?",
+      "choices": [
+        "큰 코는 전체가 드러나지 않도록 코 전체를 다른 부분보 다 연한색으로 펴바른다.",
+        "낮은 코는 코의 양측면에 세로로 진한 크림파우더 또는 다갈색의 아이새도우를 바르고 콧등에 엷은 색을 바른 다.",
+        "코끝이 둥근 경우 코끝의 양측면에 진한색을 펴바르고 코끝에는 엷은색을 펴바른다.",
+        "너무 높은 코는 코 전체에 진한색을 펴바른 후 양측면에 엷은 색을 바른다."
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-21",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 21,
+      "question": "간 흡충중(디스토마)의 제1중간 숙주는?",
+      "choices": [
+        "다슬기",
+        "쇠우렁",
+        "피라미",
+        "게"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-22",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 22,
+      "question": "납중독과 가장 거리가 먼 증상은?",
+      "choices": [
+        "빈혈",
+        "신경마비",
+        "뇌중독증상",
+        "과다행동장애"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-23",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 23,
+      "question": "간헐적으로 유행할 가능성이 있어 지속적으로 그 발생을 감 시하고 방역대책의 수림이 필요한 감염병은?",
+      "choices": [
+        "말라리아",
+        "콜레라",
+        "디프테리아",
+        "유행성이하선염"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-24",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 24,
+      "question": "수질오염의 지표로 사용하는 “생물학적 산소요구량”을 나타 내는 용어는?",
+      "choices": [
+        "BOD",
+        "DO",
+        "COD",
+        "SS"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-25",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 25,
+      "question": "국가의 건강 수준을 나타내는 지표로서 가장 대표적으로 사 용하고 있는 것은?",
+      "choices": [
+        "인구증가율",
+        "조사망률",
+        "영아사망률",
+        "질병발생률"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-26",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 26,
+      "question": "지역사회에서 노인층 인구에 가장 적절한 보건교육 방법은?",
+      "choices": [
+        "신문",
+        "집단교육",
+        "개별접촉",
+        "강연회"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-27",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 27,
+      "question": "예방접종에서 생균제제를 사용하는 것은?",
+      "choices": [
+        "장티푸스",
+        "파상풍",
+        "결핵",
+        "디프테리아"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-28",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 28,
+      "question": "저온폭로에 의한 건강장애는?",
+      "choices": [
+        "동상-무좀-전신체온 상승",
+        "참호족- 동상- 전신체온 하강",
+        "참호족-동상 -전신체온 상승",
+        "동상-기억력저하 - 참호족"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-29",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 29,
+      "question": "다음 식중독 중에서 치명률이 가장 높은 것은?",
+      "choices": [
+        "살모넬라증",
+        "포도상구균중독",
+        "연쇄상구균중독",
+        "보툴리누스균중독"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-30",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 30,
+      "question": "다음 중 파리가 전파할 수 있는 소화기계 전염병은?",
+      "choices": [
+        "페스트",
+        "일본뇌염",
+        "장티푸스",
+        "황열"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-31",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 31,
+      "question": "소독의 정의로서 옳은 것은?",
+      "choices": [
+        "모든 미생물 일체를 사멸하는 것",
+        "모든 미생물을 열과 약품으로 완전히 죽이거나 또는 제 거하는 것",
+        "병원성 미생물의 생활력을 파괴하여 죽이거나 또는 제거 하여 감염력을 없애는 것",
+        "균을 적극적으로 죽이지 못하더라고 발육을 저지하고 목 적하는 것을 변화시키지 않고 보존하는 것"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-32",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 32,
+      "question": "AIDS나 B형간염 등과 같은 질환의 전파를 예방하기 위한 이.미용기구의 가장 좋은 소독방법은?",
+      "choices": [
+        "고압증기 멸균기",
+        "자외선 소독기",
+        "음이온계면활성제",
+        "알코올"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-33",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 33,
+      "question": "일반적으로 사용되는 소독용 알콜의 적정 농도는?",
+      "choices": [
+        "30%",
+        "70%",
+        "50%",
+        "100%"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-34",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 34,
+      "question": "다음 중 이.미용사의 손을 소독하려 할 때 가장 알맞은 것은?",
+      "choices": [
+        "역성비누액",
+        "석탄산수",
+        "포르말린수",
+        "과산화수소수"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-35",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 35,
+      "question": "다음 중 음용수 소독에 사용되는 약품은?",
+      "choices": [
+        "석탄산",
+        "액체염소",
+        "승홍",
+        "알코올"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-36",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 36,
+      "question": "소독에 영향을 미치는 인자가 아닌 것은?",
+      "choices": [
+        "온도",
+        "수분",
+        "시간",
+        "풍속"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-37",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 37,
+      "question": "소독법의 구비 조건에 부적합 한 것은?",
+      "choices": [
+        "장시간에 걸쳐 소독의 효과가 서서히 나타나야 한다.",
+        "소독대상물에 손상을 입혀서는 안 된다.",
+        "인체 및 가축에 해가 없어야 한다.",
+        "방법이 간단하고 비용이 적게 들어야 한다."
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-38",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 38,
+      "question": "소독제의 살균력 측정검사의 지표로 사용되는 것은?",
+      "choices": [
+        "알코올",
+        "크레졸",
+        "석탄산",
+        "포르말린"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-39",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 39,
+      "question": "화장실, 하수도, 쓰레기통 소독에 가장 적합한 것은?",
+      "choices": [
+        "알콜",
+        "연소",
+        "승홍수",
+        "생석회"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-40",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 40,
+      "question": "상처소독에 적당치 않은 것은?",
+      "choices": [
+        "과산화수소",
+        "요오드딩크제",
+        "승홍수",
+        "머큐로크롬"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-41",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 41,
+      "question": "생명력이 없는 상태의 무색, 무핵증으로서 손바닥과 발바닥 에 주로 있는 층은?",
+      "choices": [
+        "각질층",
+        "과립층",
+        "투명층",
+        "기저층"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-42",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 42,
+      "question": "천연보습인자(NMF)에 속하지 않는 것은?",
+      "choices": [
+        "아미노산",
+        "암모니아",
+        "젖산염",
+        "글리세린"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-43",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 43,
+      "question": "즉시 색소 침착작용을 하는 광선으로 인공 선탠에 사용되는 것은?",
+      "choices": [
+        "UV A",
+        "UV B",
+        "UV C",
+        "UV D"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-44",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 44,
+      "question": "갑상선의 기능과 관계있으며 모세혈관 기능을 정상화시키는 것은?",
+      "choices": [
+        "칼슘",
+        "인",
+        "철분",
+        "요오드"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-45",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 45,
+      "question": "피부의 생리작용 중 지각 작용은?",
+      "choices": [
+        "피부표면에 수증기가 발산한다.",
+        "피부에는 땀샘, 피지선 모근은 피부생리 작용을 한다.",
+        "피부 전체에 퍼져 있는 신경에 의해 촉각, 온각, 냉각, 통각 등을 느낀다.",
+        "피부의 생리작용에 의해 생긴 노폐물을 운반한다."
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-46",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 46,
+      "question": "교원섬유(collagen)와 탄력섬유(elastin)로 구성되어 있어 강 한 탄력성을 지니고 있는 곳은?",
+      "choices": [
+        "표피",
+        "진피",
+        "피하조직",
+        "근육"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-47",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 47,
+      "question": "자외선의 영향으로 인한 부정적인 효과는?",
+      "choices": [
+        "홍반반응",
+        "비타민D형성",
+        "살균효과",
+        "강장효과"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-48",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 48,
+      "question": "피부에서 땀과 함께 분비되는 천연 자외선 흡수제는?",
+      "choices": [
+        "우로칸산",
+        "글리콜산",
+        "글루탐산",
+        "레틴산"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-49",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 49,
+      "question": "광노화와 거리가 먼 것은?",
+      "choices": [
+        "피부두께가 두꺼워진다.",
+        "섬유아세포수의 양이 감소한다.",
+        "콜라겐이 비정상적으로 늘어난다.",
+        "점다당질이 증가한다."
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-50",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 50,
+      "question": "피지분비와 가장 관계가 있는 호르몬은?",
+      "choices": [
+        "에스트로겐",
+        "프로게스트론",
+        "인슐린",
+        "안드로겐"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-51",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 51,
+      "question": "이용 및 미용업 영업자의 지위를 승계한 자가 관계기관에 신고를 해야하는 기간은?",
+      "choices": [
+        "1년 이내",
+        "3월 이내",
+        "6월 이내",
+        "1월 이내"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-52",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 52,
+      "question": "이용업 및 미용업은 다음 중 어디에 속하는가?",
+      "choices": [
+        "공중위생영업",
+        "위생관련영업",
+        "위생처리업",
+        "위생관리용역업"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-53",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 53,
+      "question": "다음( )안에 알맞은 내용은?",
+      "choices": [
+        "3월",
+        "6월",
+        "1년",
+        "2년"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-54",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 54,
+      "question": "이.미용업소 내 반드시 게시하여야 할 사항으로 옳은 것은?",
+      "choices": [
+        "요금표 및 준수사항만 게시하면 된다.",
+        "이.미용업 신고증만 게시하면 된다.",
+        "이.미용업 신고증 및 면허증사본, 요금표를 게시하면 된 다.",
+        "이.미용업 신고증, 면허증원본, 요금표를 게시하여야한다."
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-55",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 55,
+      "question": "다음 중 이. 미용사의 면허정지를 명할 수 있는 자는?",
+      "choices": [
+        "행정안전부 장관",
+        "시.도지사",
+        "시장. 군수. 구청장",
+        "경찰서장"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-56",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 56,
+      "question": "이.미용 영업소에서 1회용 면도날을 손님 2인에게 사용한 때의 1차위반시 행정처분은?",
+      "choices": [
+        "시정명령",
+        "개선명령",
+        "경고",
+        "영업정지 5일"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-57",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 57,
+      "question": "관련법상 이.미용사의 위생교육에 대한 설명 중 옳은 것은?",
+      "choices": [
+        "위생교육 대상자는 이.미용업 영업자이다.",
+        "위생교육 대상자에는 이.미용사의 면허를 가지고 이.미용 업에 종사하는 모든 자가 포함된다.",
+        "위생교육은 시.군.구청장만이 할 수 있다.",
+        "위생교육 시간은 분기 당 4시간으로 한다."
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-58",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 58,
+      "question": "다음 중 이.미용사의 면허를 받을 수 없는 자는?",
+      "choices": [
+        "전문대학의 이.미용에 관한 학과를 졸업한 자",
+        "교육인적자원부장관이 인정하는 고등기술학교에서 1년 이상 이.미용에 관한 소정의 과정을 이수한 자",
+        "국가기술자격법에 의한 이.미용사의 자격을 취득한 차",
+        "외국의 유명 이.미용학원에서 2년 이상 기술을 습득한 자"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-59",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 59,
+      "question": "신고를 하지 않고 영업소 명칭(상호)을 바꾼 경우에 대한 1 차 위반 시의 행정처분은?",
+      "choices": [
+        "주의",
+        "경고 또는 개선명령",
+        "영업정지 15일",
+        "영업정지1월"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110417-60",
+      "roundId": "20110417",
+      "roundDate": "2011-04-17",
+      "roundTitle": "2011-04-17 미용사(일반) 필기",
+      "number": 60,
+      "question": "다음 중 과태료처분 대상에 해당되지 않는 자는?",
+      "choices": [
+        "관계공무원의 출입. 검사 등 업무를 기피한 자",
+        "영업소 폐쇄명령을 받고도 영업을 계속한 자",
+        "이. 미용업소 위생관리 의무를 지키지 아니한 자",
+        "위생교육 대생자 중 위생교육을 받지 아니한 자"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110417.pdf",
+      "sourceFile": "미용사(일반)20110417(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-01",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 1,
+      "question": "다음 용어의 설명으로 틀린 것은?",
+      "choices": [
+        "버티컬 웨이브(vertical wave) : 웨이브 흐름이 수평",
+        "리세트(reset) : 세트를 다시 마는 것",
+        "호리존탈 웨이브(horizontal wave) : 웨이브 흐름이 가로 방향",
+        "오리지널 세트(original set) : 기초가 되는 최초의 세트"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-02",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 2,
+      "question": "핑거 웨이브(finger wave)와 관계없는 것은?",
+      "choices": [
+        "세팅로션, 물, 빗",
+        "크레스트(crest), 리지(ridge), 트로프(trough)",
+        "포워드비기닝(forward beginning), 리버스비기닝(reverse beginning)",
+        "테이퍼링(tapering), 싱글링(shingling)"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-03",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 3,
+      "question": "스캘프 트리트먼트(scalp treatment)의 시술과정에서 화학적 방법과 관련 없는 것은?",
+      "choices": [
+        "양모제",
+        "헤어토닉",
+        "헤어크림",
+        "헤어스티머"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-04",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 4,
+      "question": "빗(comb)의 손질법에 대한 설명으로 틀린 것은? (단, 금속 빗은 제외)",
+      "choices": [
+        "빗살 사이의 때는 솔로 제거하거나 심한 경우는 비눗물에 담근 후 브러시로 닦고 나서 소독한다.",
+        "증기소독과 자비소독 등 열에 의한 소독과 알코올 소독을 해준다.",
+        "빗을 소독할 때는 크레졸수, 역성비누액 등이 이용되며 세정이 바람직하지 않은 재질은 자외선으로 소독한다.",
+        "소독용액에 오랫동안 담가두면 빗이 휘어지는 경우가 있 어 주의하고 끄집어낸 후 물로 헹구고 물기를 제거 한다."
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-05",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 5,
+      "question": "다음 중 헤어블리치에 관한 설명으로 틀린 것은?",
+      "choices": [
+        "과산화수소는 산화제이고 암모니아수는 알칼리제이다",
+        "헤어블리치는 산화제의 작용으로 두발의 색소를 옅게한다.",
+        "헤어블리치제는 과산화수소에 암모니아수 소량을 더하여 사용한다.",
+        "과산화수소에서 방출된 수소가 멜라닌색소를 파괴시킨다."
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-06",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 6,
+      "question": "네일 에나멜(nail enamel)에 함유된 주된 필름 형성제는?",
+      "choices": [
+        "톨루엔(toluent)",
+        "메타크릴산(methacrylic acid)",
+        "니트로셀롤로우즈(nitro cellulose)",
+        "라놀린(lanoline)"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-07",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 7,
+      "question": "두발이 지나치게 건조해 있을 때나 두발의 염색에 실패했을 때의 가장 적합한 샴푸 방법은?",
+      "choices": [
+        "플레인 샴푸",
+        "에그 샴푸",
+        "약산성 샴푸",
+        "토닉 샴푸"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-08",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 8,
+      "question": "미용의 과정이 바른 순서로 나열된 것은?",
+      "choices": [
+        "소재→구상→제작→보정",
+        "소재→보정→구상→제작",
+        "구상→소재→제작→보정",
+        "구상→제작→보정→소재"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-09",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 9,
+      "question": "다음 중 커트를 하기 위한 순서로 가장 옳은 것은?",
+      "choices": [
+        "위그→수분→빗질→블로킹→슬라이스→스트랜드",
+        "위그→수분→빗질→블로킹→스트랜드→슬라이스",
+        "위그→수분→슬라이스→빗질→블로킹→스트랜드",
+        "위그→수분→스트랜드→빗질→블로킹→슬라이스"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-10",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 10,
+      "question": "첩지에 대한 내용으로 틀린 것은?",
+      "choices": [
+        "첩지의 모양은 봉과 개구리 등이 있다.",
+        "첩지는 조선시대 사대부의 예장 때 머리 위 가리마를 꾸 미는 장식품이다.",
+        "왕비는 은 개구리첩지를 사용하였다.",
+        "첩지는 내명부나 외명부의 신분을 밝혀주는 중요한 표시 이기도 했다."
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-11",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 11,
+      "question": "레이어드 커트(layered cut) 의 특징이 아닌 것은?",
+      "choices": [
+        "커트라인이 얼굴정면에서 네이프라인과 일직선인 스타일 이다.",
+        "두피 면에서의 모발의 각도를 90도 이상으로 커트한다.",
+        "머리형이 가볍고 부드러워 다양한 스타일을 만들 수 있 다.",
+        "네이프라인에서 탑 부분으로 올라가면서 모발의 길이가 점점 짧아지는 커트이다."
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-12",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 12,
+      "question": "두발 커트시 두발 끝 1/3 정도를 테이퍼링 하는 것은?",
+      "choices": [
+        "노멀 테이퍼링",
+        "딥 테이퍼링",
+        "앤드 테이퍼링",
+        "보스 사이드 테이퍼"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-13",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 13,
+      "question": "시스테인 퍼머넌트에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "아미노산의 일종인 시스테인을 사용한 것이다",
+        "환원제로 티오글리콜산염이 사용 된다",
+        "모발에 대한 잔류성이 높아 주의가 필요하다",
+        "연모, 손상모의 시술에 적합하다"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-14",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 14,
+      "question": "영구적 염모제에 대한 설명 중 틀린 것은?",
+      "choices": [
+        "제 1액의 알칼리제로는 휘발성이라는 점에서 암모니아가 사용 된다.",
+        "제 2제인 산화제는 모피질내로 침투하여 수소를 발생시 킨다.",
+        "제1제 속의 알칼리제가 모표피를 팽윤시켜 모피질내 인 공색소와 과산화수소를 침투시킨다.",
+        "모피질내의 인공색소는 큰 입자의 유색 염료를 형성하여 영구적으로 착색된다."
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-15",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 15,
+      "question": "두피타입에 알맞은 스캘프 트리트먼트(scalp treatment)의 시술방법의 연결이 틀린 것은?",
+      "choices": [
+        "건성두피- 드라이스캘프 트리트먼트",
+        "지성두피-오일리 스캘프 트리트먼트",
+        "비듬성두피-핫 오일스캘프 트리트먼트--댄드러프트리트 먼트",
+        "정상두피-플레인 스캘프 트리트먼트"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-16",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 16,
+      "question": "샴푸제의 성분이 아닌 것은?",
+      "choices": [
+        "계면활성제",
+        "점증제",
+        "기포증진제",
+        "산화제"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-17",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 17,
+      "question": "파운데이션 사용 시, 양 볼은 어두운색으로 이마 상단과 턱 의 하부는 밝은 색으로 표현하면 좋은 얼굴형은?",
+      "choices": [
+        "긴형",
+        "둥근형",
+        "사각형",
+        "삼각형"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-18",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 18,
+      "question": "가위에 대한 설명 중 틀린 것은?",
+      "choices": [
+        "양날의 견고함이 동일해야 한다.",
+        "가위의 길이나 무게가 미용사의 손에 맞아야 한다.",
+        "가위 날이 반듯하고 두꺼운 것이 좋다.",
+        "협신에서 날 끝으로 갈수록 약간 내곡선인 것이 좋다."
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-19",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 19,
+      "question": "모발의 측쇄 결합으로 볼 수 없는 것은?",
+      "choices": [
+        "시스틴결합(cystine bond)",
+        "염결합(salt bond)",
+        "수소결합(hydrogen bond)",
+        "폴리펩티드결합(Poly peptide bond)"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-20",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 20,
+      "question": "두발에서 퍼머넌트 웨이브의 형성과 직접 관련이 있는 아미 노산은?",
+      "choices": [
+        "시스틴(cystine)",
+        "알라닌(alanine)",
+        "멜라닌(melanin)",
+        "티로신(tyrosin)"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-21",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 21,
+      "question": "수질오염을 측정하는 지표로서 물에 녹아있는 유리산소를 의미하는 것은?",
+      "choices": [
+        "용존산소(DO)",
+        "생물화학적산소요구량(BOD)",
+        "화학적산소요구량 (COD)",
+        "수소이온농도(pH)"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-22",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 22,
+      "question": "출생률보다 사망률이 낮으며 14세 이하인구가 65세 이상 인 구의 2배를 초과하는 인구 구성형은?",
+      "choices": [
+        "피라미드형",
+        "종형",
+        "항아리형",
+        "별형"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-23",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 23,
+      "question": "보건행정에 대한 설명으로 가장 올바른 것은?",
+      "choices": [
+        "공중보건의 목적을 달성하기 위해 공공의 책임하에 수행 하는 행정활동",
+        "개인보건의 목적을 달성하기 위해 공공의 책임하에 수행 하는 행정활동",
+        "국가 간의 질병교류를 막기 위해 공공의 책임하에 수행 하는 행정활동",
+        "공중보건의 목적을 달성하기 위해 개인의 책임하에 수행 하는 행정활동"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-24",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 24,
+      "question": "콜레라 예방접종은 어떤 면역방법인가?",
+      "choices": [
+        "인공수동면억",
+        "인공능동면역",
+        "자연수동면역",
+        "자연능동면역"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-25",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 25,
+      "question": "기생충의 인체내 기생 부위 연결이 잘못된 것은?",
+      "choices": [
+        "구충증- 폐",
+        "간흡충증-간의 담도",
+        "요충증- 직장",
+        "폐흡충 - 폐"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-26",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 26,
+      "question": "다음 중 불량 조명에 의해 발생되는 직업병이 아닌 것은?",
+      "choices": [
+        "안정피포",
+        "근시",
+        "근육통",
+        "안구진탕증"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-27",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 27,
+      "question": "주로 여름철에 발병하며 어패류 등에 생식이 원인이 되어 복통, 설사 등의 급성위장염 증상을 나타내는 식중독은?",
+      "choices": [
+        "포도상구균식중독",
+        "병원성대장균식중독",
+        "장염비브리오식중독",
+        "보튤리누스균식중독"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-28",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 28,
+      "question": "다음 중 비타민(Vitamin)과 그 결핍증과의 연결이 틀린 것은?",
+      "choices": [
+        "Vitamin B2-구순염",
+        "Vitamin D-구루병",
+        "Vitamin A-야맹증",
+        "Vitamin C-각기병"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-29",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 29,
+      "question": "일반적으로 돼지고기 생식에 의해 감염될 수 없는 것은?",
+      "choices": [
+        "유구조충",
+        "무구조충",
+        "선모충",
+        "살모넬라"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-30",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 30,
+      "question": "실내에 다수인이 밀집한 상태에서 실내공기의 변화는?",
+      "choices": [
+        "기온상승- 습도증가- 이산화탄소 감소",
+        "기온하강- 습도증가- 이산화탄소 감소",
+        "기온상승- 습도증가- 이산화탄소 증가",
+        "기온상승- 습도감소- 이산화탄소 증가"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-31",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 31,
+      "question": "고압증기 멸균법에서 20파운드(Lbs)의 압력에서는 몇 분간 처리하는 것이 가장 적절한가?",
+      "choices": [
+        "40분",
+        "30분",
+        "15분",
+        "5분"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-32",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 32,
+      "question": "광견병의 병원체는 어디에 속하는가?",
+      "choices": [
+        "세균 (bacteria)",
+        "바이러스(virus)",
+        "리케차(rickettsia)",
+        "진균(fungi)"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-33",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 33,
+      "question": "다음 중 열에 대한 저항력이 커서 자비소독법으로 사멸되지 않는 균은?",
+      "choices": [
+        "콜레라균",
+        "결핵균",
+        "살모넬라균",
+        "B형간염 바이러스"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-34",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 34,
+      "question": "레이저(Razor) 사용 시 헤어살롱에서 교차 감염을 예방하기 위해 주의할 점이 아닌 것은?",
+      "choices": [
+        "매 고객마다 새로 소독된 면도날을 사용해야 한다.",
+        "면도날을 매번 고객마다 갈아 끼우기 어렵지만, 하루에 한번은 반듯이 새것으로 교체해야만 한다.",
+        "레이저 날이 한 몸체로 분리가 안 되는 경우 70%알코올 을 적신 솜으로 반듯이 소독 후 사용한다.",
+        "면도날을 재사용해서는 안 된다."
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-35",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 35,
+      "question": "손 소독과 주사할 때 피부소독 등에 사용되는 에틸알코올 (ethylalcohol) 은 어느 정도의 농도에서 가장 많이 사용되 는가?",
+      "choices": [
+        "20%이하",
+        "60%이하",
+        "70~80%",
+        "90~100%"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-36",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 36,
+      "question": "이?미용업소에서 일반적 상황에서의 수건 소독법으로 가장 적합한 것은?",
+      "choices": [
+        "석탄산 소독",
+        "크레졸 소독",
+        "자비 소독",
+        "적외선 소독"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-37",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 37,
+      "question": "이•미용업소에서 B형간염의 전염을 방지하려면 다음 중 어 느 기구를 가장 철저히 소독하여야 하는가?",
+      "choices": [
+        "수건",
+        "머리빗",
+        "면도칼",
+        "클리퍼(전동형)"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-38",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 38,
+      "question": "소독제의 살균력을 비교할 때 기준이 되는 소독약은?",
+      "choices": [
+        "요오드",
+        "승호",
+        "석탄산",
+        "알코올"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-39",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 39,
+      "question": "3%의 크레졸 비누액 900ml를 만드는 방법으로 옳은 것은?",
+      "choices": [
+        "크레졸 원액 270ml 에 물 630ml를 가한다.",
+        "크레졸 원액27ml에 물 873ml를 가한다.",
+        "크레졸 원액 300ml에 물 600ml를 가한다.",
+        "크레졸 원액 200ml에 물 700ml를 가한다."
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-40",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 40,
+      "question": "소독약의 구비조건으로 틀린 것은?",
+      "choices": [
+        "값이 비싸고 위험성이 없다.",
+        "인체에 해가 없으며 취급이 간편하다.",
+        "살균하고자 하는 대상물을 손상시키지 않는다.",
+        "살균력이 강하다."
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-41",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 41,
+      "question": "다음 중 피부의 각질, 털, 손톱, 발톱의 구성성분인 케라틴 을 가장 많이 함유한 것은?",
+      "choices": [
+        "동물성 단백질",
+        "동물성 지방질",
+        "식물성지방질",
+        "탄수화물"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-42",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 42,
+      "question": "노화피부의 특징이 아닌 것은?",
+      "choices": [
+        "노화피부는 탄력이 없고 수분이 없다.",
+        "피지분비가 원활하지 못하다.",
+        "주름이 형성되어 있다.",
+        "색소침착 불균형이 나타난다."
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-43",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 43,
+      "question": "피부진균에 의하여 발생하며 습한 곳에서 발생빈도가 가장 높은 것은?",
+      "choices": [
+        "모낭염",
+        "족부백선",
+        "붕소염",
+        "티눈"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-44",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 44,
+      "question": "기미를 악화시키는 주요한 원인이 아니 것은?",
+      "choices": [
+        "경구피임약의 복용",
+        "임신",
+        "자외선 차단",
+        "내분비 이상"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-45",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 45,
+      "question": "다음 중 피지선과 가장 관련이 깊은 질환은?",
+      "choices": [
+        "사마귀",
+        "주사(rosacea)",
+        "한관종",
+        "백반증"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-46",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 46,
+      "question": "박하(peppermint) 에 함유된 시원한 느낌으로 혈액순환 촉 진 성분은?",
+      "choices": [
+        "자이리톨 (xylitol)",
+        "멘돌 (menthol)",
+        "알코올(alcohol)",
+        "마조람오일(majoram oil)"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-47",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 47,
+      "question": "다음 중 표피에 존재하며, 면역과 가장 관계가 깊은 세포 는?",
+      "choices": [
+        "멜라닌 세포",
+        "링게르한스 세포",
+        "메컬 세포",
+        "섬유아 세포"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-48",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 48,
+      "question": "다음 중 필수 아미노산에 속하지 않는 것은?",
+      "choices": [
+        "트립토판",
+        "트레오닌",
+        "발린",
+        "알라닌"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-49",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 49,
+      "question": "AHA(alpha hydroxy acid)에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "화학적 필링",
+        "글리콜산, 젖산, 주석산, 능금산, 구연산",
+        "각질세포의 응집력 강화",
+        "미백작용"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-50",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 50,
+      "question": "다음 정유(essential oil) 중에서 살균, 소독작용이 가장 강한 것은?",
+      "choices": [
+        "타임 오일 (thyme oil)",
+        "주니퍼 오일 (juniper oil)",
+        "로즈마리 오일 (rosemary oil)",
+        "클라리세이지 오일 (clarysage oil)"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-51",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 51,
+      "question": "영업신고를 하지 아니하고 영업소의소재지를 변경한 때 행 정처분은?",
+      "choices": [
+        "경고",
+        "면허정지",
+        "면허취소",
+        "영업장 폐쇄명령"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-52",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 52,
+      "question": "이. 미용업에 있어 청문을 실시하여야 하는 경우가 아닌 것은?",
+      "choices": [
+        "면허취소처분을 하고자 하는 경우",
+        "면허정지 처분을 하고자 하는 경우",
+        "일부시설의 사용중지처분을 하고자 하는 경우",
+        "위생교육을 받지 아니하여 1차 위반한 경우"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-53",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 53,
+      "question": "이?미용업소에서의 면도기 사용에 대한 설명으로 가장 옳은 것은?",
+      "choices": [
+        "1회용 면도날만을 손님1인에 한하여 사용",
+        "정비용 면도기를 손님1인에 한하여 사용",
+        "정비용 면도기를 소독 후 계적 사용",
+        "매 손님마다. 소독한 정비용 면도기 교체사용"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-54",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 54,
+      "question": "부득이한 사유가 없는 한 공중위생영업소를 개설할 자는 언 제 위생교육을 받아야 하는가?",
+      "choices": [
+        "영업개시 후 2월 이내",
+        "영업개시 후 1월 이내",
+        "영업개시 전",
+        "영업개시 후 3월 이내"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-55",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 55,
+      "question": "다음 중 공중위생영업을 하고자 할 필요한 것은?",
+      "choices": [
+        "허가",
+        "통보",
+        "인가",
+        "신고"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-56",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 56,
+      "question": "공중위생영업자가 준수하여야 할 위생관리기준은 다음 중 어느 것으로 정하고 있는가?",
+      "choices": [
+        "대통령령",
+        "국무총리령",
+        "고용노동부령",
+        "보건복지부령"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-57",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 57,
+      "question": "이용 또는 미용의 면허가 취소된 후 계속하여 업무를 행자 자에 대한 벌칙사항은?",
+      "choices": [
+        "6월 이하의 징역 또는 300만원 이하의 벌금",
+        "500만원 이하의 벌금",
+        "300만원 이하의 벌금",
+        "200만원 이하의 벌금"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-58",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 58,
+      "question": "이. 미용영업자에게 과태료를 부과 징수 할 수 있는 처분권 자에 해당되지 않는 자는?",
+      "choices": [
+        "보건복지부장관",
+        "시장",
+        "군수",
+        "구청장"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-59",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 59,
+      "question": "대통령령이 정하는 바에 의하여 관계전문기관 등에 공중위 생관리 업무의 일부를 위탁 할 수 있는 자는?",
+      "choices": [
+        "시. 도지사",
+        "시장, 군수, 구청장",
+        "보건복지부장관",
+        "보건소장"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20110731-60",
+      "roundId": "20110731",
+      "roundDate": "2011-07-31",
+      "roundTitle": "2011-07-31 미용사(일반) 필기",
+      "number": 60,
+      "question": "이. 미용사의 면허증을 재교부 받을 수 있는 자는 다음 중 누구인가?",
+      "choices": [
+        "공중위생관리법의 규정에 의한 명령을 위반한 자",
+        "간질병자",
+        "면허증을 다른 사람에게 대여한 자",
+        "면허증이 헐어 못쓰게 된 자"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20110731.pdf",
+      "sourceFile": "미용사(일반)20110731(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-01",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 1,
+      "question": "주로 짧은 헤어스타일의 헤어커트 시 두부 상부에 있는 두발 은 길고 하부로 갈수록 짧게 커트해서 두발의 길이에 작은 단차가 생기게 한 커트 기법은?",
+      "choices": [
+        "스퀘어 커트 (square cut)",
+        "원랭스 커트 (one length cut)",
+        "레이어 커트 (layer cut)",
+        "그라데이션 커트 (gradat cut)"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-02",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 2,
+      "question": "한국의 고대 미용의 발달사를 설명한 것 중 틀린 것은?",
+      "choices": [
+        "헤어스타일(모발형)에 관해서 문헌에 기록된 고구려 벽화 는 없었다.",
+        "헤어스타일(모발형)은 신분의 귀천을 나타냈다.",
+        "헤어스타일(모발형)은 조선시대 때 쪽진머리, 큰머리, 조 짐머리가 성행하였다.",
+        "헤어스타일(모발형)에 관해서 삼한시대에 기록된 내용이 있다."
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-03",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 3,
+      "question": "미용의 필요성으로 가장 거리가 먼 것은?",
+      "choices": [
+        "인간의 심리적 욕구를 만족시키고 생산의욕을 높이 는데 도움을 주므로 필요하다.",
+        "미용의 기술로 외모의 결점 부분까지도 보완하여 개 성미 를 연출해주므로 필요하다,",
+        "노화를 전적으로 방지해주므로 필요하다.",
+        "현대생활에서는 상대방에게 불쾌감을 주지 않는 것이 중 요하므로 필요하다."
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-04",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 4,
+      "question": "프라이머의 사용 방법이 아닌 것은?",
+      "choices": [
+        "프라이머는 한 번만 바른다.",
+        "주요 성분은 메타크릴릭산(methacrylic acid)이다.",
+        "피부에 닿지 않게 조심해서 다루어야 한다.",
+        "아크릴 볼이 잘 접착되도록 자연 손톱에 바른다."
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-05",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 5,
+      "question": "동물의 부드럽고 긴 털을 사용한 것이 많고 얼굴이나 턱에 붙은 털이나 비듬 또는 백분을 떨어내는데 사용 하는 브러시 는?",
+      "choices": [
+        "포마드 브러시",
+        "쿠션 브러시",
+        "훼이스 브러시",
+        "롤 브러시"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-06",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 6,
+      "question": "누에고치에서 추출한 성분과 난황성분을 함유한 샴푸제로서 모발에 영양을 공급해 주는 샴푸는?",
+      "choices": [
+        "산성 샴푸 (acid shampoo)",
+        "컨디셔닝 샴푸 (conditioning shampoo)",
+        "프로테인 샴푸 (protein shampoo)",
+        "드라이 샴푸 (dry shampoo)"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-07",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 7,
+      "question": "전체적인 머리모양을 종합적으로 관찰하여 수정 보완시켜 완 전히 끝맺도록 하는 것은?",
+      "choices": [
+        "통칙",
+        "제작",
+        "보정",
+        "구상"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-08",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 8,
+      "question": "과산화수소(산화제) 6%의 설명이 맞는 것은?",
+      "choices": [
+        "10볼륨",
+        "20볼륨",
+        "30볼륨",
+        "40볼륨"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-09",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 9,
+      "question": "헤어세트용 빗의 사용과 취급방법에 대한 설명 중 틀린 것은?",
+      "choices": [
+        "두발의 흐름을 아름답게 매만질 때는 빗살이 고운살 로 된 세트빗을 사용한다.",
+        "엉킨 두발을 빗을 때는 빗살이 얼레살로 된 얼레빗을 사 용한다.",
+        "빗은 사용 후 브러시로 털거나 비눗물에 담가 브러시 로 닦은 후 소독하도록 한다.",
+        "빗의 소독은 손님 약 5인에게 사용했을 때 1회씩 하는 것 이 적합하다."
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-10",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 10,
+      "question": "마셀웨이브 시술에 관한 설명 중 틀린 것은?",
+      "choices": [
+        "프롱은 아래쪽, 그루브는 위쪽을 향하도록 한다.",
+        "아이론의 온도는 120~140℃를 유지시킨다.",
+        "아이론을 회전시키기 위해서는 먼저 아이론을 정확 하게 쥐고 반대쪽에 45˚ 각도로 위치시킨다.",
+        "아이론의 온도가 균일할 때 웨이브가 일률적으로 완성된 다."
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-11",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 11,
+      "question": "모발의 결합 중 수분에 의해 일시적으로 변형되며, 드라이 어의 열을 가하면 다시 재결합 되어 형태가 만들어지는 결 합은?",
+      "choices": [
+        "s-s 결합",
+        "펩타이드 결합",
+        "수소결합",
+        "염 결합"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-12",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 12,
+      "question": "다음 중 염색시술시 모표피의 안정과 염색의 퇴색 을 방지 하기 위해 가장 적합한 것은?",
+      "choices": [
+        "샴푸 (shampoo)",
+        "플레인 린스 (plain rinse)",
+        "알칼리 린스 (akali rinse)",
+        "산성균형 린스 (acid balanced rinse)"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-13",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 13,
+      "question": "원형 얼굴을 기본형에 가깝도록 하기 위한 각 부위 의 화장 법으로 맞는 것은?",
+      "choices": [
+        "얼굴의 양 관자놀이 부분을 화사하게 해준다.",
+        "이마와 턱의 중간부는 어둡게 해준다.",
+        "눈썹은 활모양이 되지 않도록 약간 치켜 올린듯하게 그 린다.",
+        "콧등은 뚜렷하고 자연스럽게 뻗어 나가도록 어둡게 표현 한다."
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-14",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 14,
+      "question": "두부 라인의 명칭 중에서 코의 중심을 통해 두부 전체를 수 직으로 나누는 선은?",
+      "choices": [
+        "정중선",
+        "측중선",
+        "수평선",
+        "측두선"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-15",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 15,
+      "question": "다음 중 스퀘어 파트에 대하여 설명한 것은?",
+      "choices": [
+        "이마의 양쪽은 사이드 파트를 하고, 두정부 가까이 에서 얼굴의 두발이 난 가장자리와 수평이 되도록 모나게 가 르마를 타는 것",
+        "이마의 양각에서 나누어진 선이 두정부에서 함께 만난 세모꼴의 가르마를 타는 것",
+        "사이드(side)파트로 나눈 것",
+        "파트의 선이 곡선으로 된 것"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-16",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 16,
+      "question": "헤어 샴푸의 목적과 가장 거리가 먼 것은?",
+      "choices": [
+        "두피와 두발에 영양을 공급",
+        "헤어트리트먼트를 쉽게 할 수 있는 기초",
+        "두발의 건전한 발육 촉진",
+        "청결한 두피와 두발을 유지"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-17",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 17,
+      "question": "건강모발의 pH 범위는?",
+      "choices": [
+        "pH 3-4",
+        "pH 4.5-5.5",
+        "pH 6.5-7.5",
+        "pH 8.5-9.5"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-18",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 18,
+      "question": "옛 여인들의 머리 모양 중 뒤통수에 낮게 머리를 땋아 틀어 올리고 비녀를 꽂은 머리 모양은?",
+      "choices": [
+        "민머리",
+        "얹은머리",
+        "풍기병식 머리",
+        "쪽진 머리"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-19",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 19,
+      "question": "다음은 모발의 구조와 성질을 설명한 내용이다. 맞지 않는 것은?",
+      "choices": [
+        "두발은 주요 부분을 구성하고 있는 모표피, 모피질, 모수 질 등으로 이루어졌으며, 주로 탄력성이 풍부한 단백질 로 이루어져 있다.",
+        "케라틴은 다른 단백질에 비하여 유황의 함유량이 많은 데, 황(s)은 시스틴(cystine)에 함유되어 있다.",
+        "시스틴 결합 (-s-s)은 알칼리에는 강한 저항력을 갖고 있으나 물, 알코올, 약 산성이나 소금류에 대해서 약하 다.",
+        "케라틴의 폴리펩타이드는 쇠사슬 구조로서, 두발의 장축 방향(長軸方向)으로 배열되어있다."
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-20",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 20,
+      "question": "퍼머 2액의 취소산 염류의 농도로 맞는 것은?",
+      "choices": [
+        "1 ~ 2%",
+        "3 ~ 5%",
+        "6 ~ 7.5%",
+        "8 ~ 9.5%"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-21",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 21,
+      "question": "고기압 상태에서 올 수 있는 인체 장애는?",
+      "choices": [
+        "안구 진탕증",
+        "잠함병",
+        "레이노이드병",
+        "섬유증식증"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-22",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 22,
+      "question": "접촉자의 색출 및 치료가 가장 중요한 질병은?",
+      "choices": [
+        "성병",
+        "암",
+        "당뇨병",
+        "일본뇌염"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-23",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 23,
+      "question": "다음 기생충 중 산란과 동시에 감염능력이 있으며 건조에 저항성이 커서 집단감염이 가장 잘되는 기생충은?",
+      "choices": [
+        "회충",
+        "십이지장충",
+        "광절열두조충",
+        "요충"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-24",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 24,
+      "question": "보건행정의 정의에 포함되는 내용과 가장 거리가 먼 것은?",
+      "choices": [
+        "국민의 수명연장",
+        "질병예방",
+        "공적인 행정활동",
+        "수질 및 대기보전"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-25",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 25,
+      "question": "생물학적 산소요구량(BOD)과 용존산소량(DO)의 값은 어떤 관계가 있는가?",
+      "choices": [
+        "BOD와 DO는 무관하다.",
+        "BOD가 낮으면 DO는 낮다.",
+        "BOD가 높으면 DO는 낮다.",
+        "BOD가 높으면 DO도 높다."
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-26",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 26,
+      "question": "장티푸스, 결핵, 파상풍 등의 예방접종은 어떤 면역 인가?",
+      "choices": [
+        "인공 능동면역",
+        "인공 수동면역",
+        "자연 능동면역",
+        "자연 수동면역"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-27",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 27,
+      "question": "식품을 통한 식중독 중 독소형 식중독은?",
+      "choices": [
+        "포도상구균 식중독",
+        "살모넬라균에 의한 식중독",
+        "장염 비브리오 식중독",
+        "병원성 대장균 식중독"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-28",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 28,
+      "question": "야간작업의 폐해가 아닌 것은?",
+      "choices": [
+        "주야가 바뀐 부자연스런 생활",
+        "수면 부족과 불면증",
+        "피로회복 능력 강화와 영양 저하",
+        "식사시간, 습관의 파괴로 소화불량"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-29",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 29,
+      "question": "일반적으로 이˙미용업소의 실내 쾌적 습도 범위로 가 장 알 맞은 것은?",
+      "choices": [
+        "10 ~ 20%",
+        "20 ~ 40%",
+        "40 ~ 70%",
+        "70 ~ 90%"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-30",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 30,
+      "question": "다음 중 환경보전에 영향을 미치는 공해 발생원인 으로 관 계가 먼 것은?",
+      "choices": [
+        "실내의 흡연",
+        "산업장 폐수방류",
+        "공사장의 분진 발생",
+        "공사장의 굴착작업"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-31",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 31,
+      "question": "소독과 멸균에 관련된 용어 해설 중 틀린 것은?",
+      "choices": [
+        "살균: 생활력을 가지고 있는 미생물을 여러 가지 물리. 화학적 작용에 의해 급속히 죽이는 것을 말한다.",
+        "방부: 병원성 미생물의 발육과 그 작용을 제거하거나 정 지시켜서 음식물의 부패나 발효를 방지 하는 것을 말한 다.",
+        "소독: 사람에게 유해한 미생물을 파괴시켜 감염의 위험 성을 제거하는 비교적 강한 살균작용으로 세균의 포자까 지 사멸하는 것을 말한다.",
+        "멸균: 병원성 또는 비병원성 미생물 및 포자를 가진 것 을 전부 사멸 또는 제거하는 것을 말한다."
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-32",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 32,
+      "question": "이상적인 소독제의 구비조건과 거리가 먼 것은?",
+      "choices": [
+        "생물학적 작용을 충분히 발휘할 수 있어야 한다.",
+        "빨리 효과를 내고 살균 소요시간이 짧을수록 좋다.",
+        "독성이 적으면서 사용자에게도 자극성이 없어야 한다.",
+        "원액 혹은 희석된 상태에서 화학적으로는 불안정된 것이 라야 한다."
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-33",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 33,
+      "question": "소독약 10mL를 용액(물) 40mL에 혼합시키면 몇%의 수용액 이 되는가?",
+      "choices": [
+        "2%",
+        "10%",
+        "20%",
+        "50%"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-34",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 34,
+      "question": "건열멸균법에 대한 설명 중 틀린 것은?",
+      "choices": [
+        "드라이 오븐(dry oven)을 사용한다.",
+        "유리제품이나 주사기 등에 적합하다.",
+        "젖은 손으로 조작하지 않는다.",
+        "110 ~ 130℃에서 1시간 내에 실시한다."
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-35",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 35,
+      "question": "이·미용업소에서 종업원이 손을 소독할 때 가장 보편 적이 고 적당한 것은?",
+      "choices": [
+        "승홍수",
+        "과산화수소",
+        "역성비누",
+        "석탄수"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-36",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 36,
+      "question": "살균력이 좋고 자극성이 적어서 상처소독에 많이 사용되는 것은?",
+      "choices": [
+        "승홍수",
+        "과산화수소",
+        "포르말린",
+        "석탄산"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-37",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 37,
+      "question": "다음 중 음용수의 소독에 사용되는 소독제는?",
+      "choices": [
+        "표백분",
+        "염산",
+        "과산화수소",
+        "요오드팅크"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-38",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 38,
+      "question": "다음 중 음료수의 소독방법으로 가장 적당한 방법은?",
+      "choices": [
+        "일광소독",
+        "자외선등 사용",
+        "염소소독",
+        "증기소독"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-39",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 39,
+      "question": "이·미용실의 기구(가위, 레이저) 소독으로 가장 적당한 약품 은?",
+      "choices": [
+        "70~80%의 알코올",
+        "100~200배 희석 역성비누",
+        "5% 크레졸비누액",
+        "50%의 페놀액"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-40",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 40,
+      "question": "소독작용에 영향을 미치는 요인에 대한 설명으로 틀린 것은?",
+      "choices": [
+        "온도가 높을수록 소독 효과가 크다.",
+        "유기물질이 많을수록 소독 효과가 크다.",
+        "접속시간이 길수록 소독 효과가 크다.",
+        "농도가 높을수록 소독 효과가 크다."
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-41",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 41,
+      "question": "다음 중 탄수화물, 지방, 단백질의 3가지 지칭하는 것은?",
+      "choices": [
+        "구성영양소",
+        "열량영양소",
+        "조절영양소",
+        "구조영양소"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-42",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 42,
+      "question": "다음 중 기초화장품의 주된 사용 목적에 속하지 않는 것은?",
+      "choices": [
+        "세안",
+        "피부정돈",
+        "피부보호",
+        "피부채색"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-43",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 43,
+      "question": "상피조직의 신진대사에 관여하며 각화정상화 및 피부재생을 돕고 노화방지에 효과가 잇는 비타민은?",
+      "choices": [
+        "비타민 C",
+        "비타민 E",
+        "비타민 A",
+        "비타민 K"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-44",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 44,
+      "question": "다음 중 일반적으로 건강한 모발의 상태는?",
+      "choices": [
+        "단백질 10~20%, 수분 10~15%, pH 2.5~4.5",
+        "단백질 20~30%, 수분 70~80%, pH 4.5~5.5",
+        "단백질 50~60%, 수분 25~40%, pH 7.5~8.5",
+        "단백질 70~80%, 수분 10~15%, pH 4.5~5.5"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-45",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 45,
+      "question": "다음 중 글리세린의 가장 중요한 작용은?",
+      "choices": [
+        "소독작용",
+        "수분유지작용",
+        "탈수작용",
+        "금속염제거작용"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-46",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 46,
+      "question": "다음 중 멜라닌 색소를 함유하고 있는 부분은?",
+      "choices": [
+        "모표피",
+        "모피질",
+        "모수질",
+        "모유두"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-47",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 47,
+      "question": "피지선의 활성을 높여주는 호르몬은?",
+      "choices": [
+        "안드로겐",
+        "에스트로겐",
+        "인슐린",
+        "멜라닌"
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-48",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 48,
+      "question": "다음 중 식물성 오일이 아닌 것은?",
+      "choices": [
+        "아보카도 오일",
+        "피마자 오일",
+        "올리브 오일",
+        "실리콘 오일"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-49",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 49,
+      "question": "피부의 기능이 아닌 것은?",
+      "choices": [
+        "피부는 강력한 보호 작용을 지니고 있다.",
+        "피부는 체온의 외부발산을 막고 외부온도 변화가 내 부 로 전해지는 작용을 한다.",
+        "피부는 땀과 피지를 통해 노폐물을 분비, 배설 한다.",
+        "피부도 호흡한다."
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-50",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 50,
+      "question": "여러 가지 꽃 향의 혼합된 세련되고 로맨틱한 향으로 아름 다운 꽃다발을 안고 있는 듯, 화려하면서도 우아한 느낌을 주는 향수의 타입은?",
+      "choices": [
+        "싱글 플로럴 (single floral)",
+        "플로럴 부케 (floral boupuet)",
+        "우디 (woody)",
+        "오리엔탈 (oriental)"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-51",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 51,
+      "question": "공중위생관리법에서 규정하고 있는 공중위생영업의 종류에 해당되지 않는 것은?",
+      "choices": [
+        "이·미용업",
+        "위생관리용영업",
+        "학원영업",
+        "세탁업"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-52",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 52,
+      "question": "영업소 외의 장소에서 이·미용 업무를 행할 수 있는 경우가 아닌 것은?",
+      "choices": [
+        "질병으로 영업소에 나올 수 없는 경우",
+        "결혼식 등의 의식 직전인 경우",
+        "손님의 간곡한 요청이 있을 경우",
+        "시장·군수·구청장이 인정하는 경우"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-53",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 53,
+      "question": "영업자의 지위를 승계한 자로서 신고를 하지 아니하였을 경 우 해당하는 처벌기준은?",
+      "choices": [
+        "1년 이하의 징역 또는 1천만원 이하의 벌금",
+        "6월 이하의 징역 또는 500만원 이하의 벌금",
+        "200만원 이하의 벌금",
+        "100만원 이하의 벌금"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-54",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 54,
+      "question": "공익상 또는 선량한 풍속유지를 위하여 필요하다고 인정하 는 경우에 이·미용업의 영업시간 및 영업행위 에 관한 필요 한 제한을 할 수 있는 자는?",
+      "choices": [
+        "관련 전문기관 및 단체장",
+        "보건복지부장관",
+        "시·도지사",
+        "시장·군수·구청장"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-55",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 55,
+      "question": "다음 중 이·미용사 면허를 취득할 수 없는 자는?",
+      "choices": [
+        "면허 취소 후 1년 경과자",
+        "독감환자",
+        "마약중독자",
+        "전과기록자"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-56",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 56,
+      "question": "처분기준이 2백만원 이하의 과태료가 아닌 것은?",
+      "choices": [
+        "규정을 위반하여 영업소 이외 장소에서 이·미용업무를 행한 자",
+        "위생교육을 받지 아니한 자",
+        "위생 관리 의무를 지키지 아니한 자",
+        "관계 공무원의 출입·검사·기타 조치를 거부·방해 또는 기 피한 자"
+      ],
+      "answerIndex": 3,
+      "answerLabel": "④",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-57",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 57,
+      "question": "다음 중 이·미용사 면허를 받을 수 없는 경우에 해당 하는 것은?",
+      "choices": [
+        "전문대학 또는 동등 이상의 학력이 있다고 교육과학 기 술부장관이 인정하는 학교에서 이용 또는 미용에 관한 학과 졸업자",
+        "교육과학기술부장관이 인정하는 인문계 학교에서 1년 이 상 이·미용사자격을 취득한 자",
+        "국가기술자격법에 의한 이·미용사자격을 취득한 자",
+        "교육과학기술부장관이 인정한 고등기술학교에서 1년 이 상 이·미용에 관한 소정의 과정을 이수한 자"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-58",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 58,
+      "question": "이·미용기구의 소독기준 및 방법을 정한 것은?",
+      "choices": [
+        "대통령령",
+        "보건복지부령",
+        "환경부령",
+        "보건소령"
+      ],
+      "answerIndex": 1,
+      "answerLabel": "②",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-59",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 59,
+      "question": "이·미용업자의 준수사항 중 틀린 것은?",
+      "choices": [
+        "소독한 기구와 하지 아니한 기구는 각각 다른 용기에 넣 어 보관할 것",
+        "조명은 75룩스 이상 유지되도록 할 것",
+        "신고증과 함께 면허증 사본을 게시할 것",
+        "1회용 면도날은 손님 1인에 한하여 사용할 것"
+      ],
+      "answerIndex": 2,
+      "answerLabel": "③",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    },
+    {
+      "id": "20111009-60",
+      "roundId": "20111009",
+      "roundDate": "2011-10-09",
+      "roundTitle": "2011-10-09 미용사(일반) 필기",
+      "number": 60,
+      "question": "공중위생관리법상의 위생교육에 대한 설명 중 옳은 것은?",
+      "choices": [
+        "위생교육 대상자는 이·미용업 영업자이다.",
+        "위생교육 대상자는 이·미용사이다.",
+        "위생교육 시간은 매년 8시간이다.",
+        "위생교육은 공중위생관리법 위반자에 한하여 받는다."
+      ],
+      "answerIndex": 0,
+      "answerLabel": "①",
+      "sourcePdf": "pdfs/20111009.pdf",
+      "sourceFile": "미용사(일반)20111009(학생용).pdf",
+      "hasTextExtractionIssue": false
+    }
+  ]
+}

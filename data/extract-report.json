@@ -1,0 +1,61 @@
+{
+  "generatedAt": "2026-06-04T23:44:15",
+  "sourceCount": 5,
+  "rounds": [
+    {
+      "id": "20100711",
+      "date": "2010-07-11",
+      "title": "2010-07-11 미용사(일반) 필기",
+      "pdf": "pdfs/20100711.pdf",
+      "originalName": "미용사(일반)20100711(학생용).pdf",
+      "questionCount": 60,
+      "textExtractionIssueNumbers": [],
+      "missingAnswerNumbers": []
+    },
+    {
+      "id": "20101003",
+      "date": "2010-10-03",
+      "title": "2010-10-03 미용사(일반) 필기",
+      "pdf": "pdfs/20101003.pdf",
+      "originalName": "미용사(일반)20101003(학생용).pdf",
+      "questionCount": 60,
+      "textExtractionIssueNumbers": [
+        1
+      ],
+      "missingAnswerNumbers": []
+    },
+    {
+      "id": "20110417",
+      "date": "2011-04-17",
+      "title": "2011-04-17 미용사(일반) 필기",
+      "pdf": "pdfs/20110417.pdf",
+      "originalName": "미용사(일반)20110417(학생용).pdf",
+      "questionCount": 60,
+      "textExtractionIssueNumbers": [],
+      "missingAnswerNumbers": []
+    },
+    {
+      "id": "20110731",
+      "date": "2011-07-31",
+      "title": "2011-07-31 미용사(일반) 필기",
+      "pdf": "pdfs/20110731.pdf",
+      "originalName": "미용사(일반)20110731(학생용).pdf",
+      "questionCount": 60,
+      "textExtractionIssueNumbers": [],
+      "missingAnswerNumbers": []
+    },
+    {
+      "id": "20111009",
+      "date": "2011-10-09",
+      "title": "2011-10-09 미용사(일반) 필기",
+      "pdf": "pdfs/20111009.pdf",
+      "originalName": "미용사(일반)20111009(학생용).pdf",
+      "questionCount": 60,
+      "textExtractionIssueNumbers": [],
+      "missingAnswerNumbers": []
+    }
+  ],
+  "warnings": [
+    "미용사(일반)20101003(학생용).pdf: question 1 has image/blank choice text; original PDF link is shown in app"
+  ]
+}
