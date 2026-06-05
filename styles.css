@@ -191,6 +191,13 @@ select:focus, button:focus-visible {
   margin-bottom: 18px;
 }
 
+.top-bar-actions {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex-shrink: 0;
+}
+
 .progress-text {
   margin-bottom: 8px;
   color: var(--primary-dark);
@@ -323,7 +330,6 @@ select:focus, button:focus-visible {
 
 .bottom-actions {
   display: grid;
-  grid-template-columns: 1fr 1fr;
   gap: 10px;
   margin-top: 22px;
 }
@@ -370,10 +376,6 @@ select:focus, button:focus-visible {
   }
 
   .meta-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .bottom-actions {
     grid-template-columns: 1fr;
   }
 }

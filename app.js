@@ -98,7 +98,7 @@ function renderQuestion() {
 
   const question = state.quizQuestions[state.currentIndex];
   const progress = Math.round(((state.currentIndex + 1) / state.quizQuestions.length) * 100);
-  const originalPdfButton = question.hasTextExtractionIssue
+  const pdfLink = question.hasTextExtractionIssue
     ? `<a class="ghost-button" href="${question.sourcePdf}" target="_blank" rel="noreferrer">원본 PDF 보기</a>`
     : "";
 
@@ -133,7 +133,10 @@ function renderQuestion() {
           <div class="progress-text">${state.currentIndex + 1} / ${state.quizQuestions.length}</div>
           <div class="round-text">${question.roundDate} 회차 · ${question.number}번</div>
         </div>
-        ${originalPdfButton}
+        <div class="top-bar-actions">
+          ${pdfLink}
+          <button class="ghost-button" id="homeButton">처음으로</button>
+        </div>
       </div>
       <div class="progress-track"><div class="progress-fill" style="width: ${progress}%"></div></div>
       <h2 class="question-title">Q${question.number}. ${escapeHtml(question.question)}</h2>
@@ -141,7 +144,6 @@ function renderQuestion() {
       <div class="choice-list">${choices}</div>
       ${feedback}
       <div class="bottom-actions">
-        <button class="secondary-button" id="homeButton">처음으로</button>
         ${nextButton}
       </div>
     </section>
