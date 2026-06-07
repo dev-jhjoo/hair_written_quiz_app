@@ -19,9 +19,7 @@
       "pdf": "pdfs/20101003.pdf",
       "originalName": "미용사(일반)20101003(학생용).pdf",
       "questionCount": 60,
-      "textExtractionIssueNumbers": [
-        1
-      ],
+      "textExtractionIssueNumbers": [1],
       "missingAnswerNumbers": []
     },
     {
@@ -57,5 +55,35 @@
   ],
   "warnings": [
     "미용사(일반)20101003(학생용).pdf: question 1 has image/blank choice text; original PDF link is shown in app"
+  ],
+  "latest60": {
+    "sourceFile": "네이버 블로그 __ 글 내용 Print.pdf",
+    "title": "2026 예상문제 7",
+    "questionsParsed": 60,
+    "textExtractionIssues": 0,
+    "sourceUrl": "https://blog.naver.com/munissam/224308150712"
+  },
+  "totalQuestions": 540,
+  "latestUpdate": "Added three Munissam Naver Blog expected-question PDFs; removed all-round option; added source credit.",
+  "totalRounds": 9,
+  "addedRounds": [
+    {
+      "id": "munissam-expected4",
+      "title": "2026 예상문제 4",
+      "count": 60,
+      "sourceUrl": "https://blog.naver.com/munissam/224211771219"
+    },
+    {
+      "id": "munissam-expected5",
+      "title": "2026 예상문제 5",
+      "count": 60,
+      "sourceUrl": "https://blog.naver.com/munissam/224211773875"
+    },
+    {
+      "id": "munissam-expected6",
+      "title": "2026 예상문제 6",
+      "count": 60,
+      "sourceUrl": "https://blog.naver.com/munissam/224212696424"
+    }
   ]
 }

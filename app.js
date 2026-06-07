@@ -2,7 +2,7 @@ const app = document.querySelector("#app");
 
 const state = {
   data: null,
-  selectedRoundId: "all",
+  selectedRoundId: null,
   quizQuestions: [],
   currentIndex: 0,
   selectedIndex: null,
@@ -36,10 +36,10 @@ function renderShell(content) {
 }
 
 function getRoundOptions() {
-  const options = [`<option value="all">전체 회차 (${state.data.totalQuestions}문제)</option>`];
+  const options = [];
   state.data.rounds.forEach((round) => {
     const count = state.data.questions.filter((question) => question.roundId === round.id).length;
-    options.push(`<option value="${round.id}">${round.date} 회차 (${count}문제)</option>`);
+    options.push(`<option value="${round.id}">${escapeHtml(round.title ?? `${round.date} 회차`)} (${count}문제)</option>`);
   });
   return options.join("");
 }
@@ -51,9 +51,10 @@ function renderHome() {
       <div class="badge">✂️ 미용사 일반 필기</div>
       <h1>기출 문제풀이</h1>
       <p class="home-description">
-        5개 회차 PDF에서 추출한 ${state.data.totalQuestions}문제를 한 문제씩 풀어볼 수 있습니다.<br />
+        ${state.data.rounds.length}개 세트에서 추출한 ${state.data.totalQuestions}문제를 한 문제씩 풀어볼 수 있습니다.<br />
         답을 선택하면 바로 정답 여부와 실제 정답을 확인합니다.
       </p>
+      <p class="source-credit">출처 | 무니쌤 미용교실(네이버 블로그)</p>
       <div class="home-controls">
         <div class="field">
           <label for="roundSelect">풀이 범위</label>
@@ -62,13 +63,16 @@ function renderHome() {
         <button class="primary-button" id="startButton">문제풀이 시작</button>
       </div>
       <div class="meta-grid">
-        <div class="meta-box"><span class="meta-value">5</span><span class="meta-label">회차</span></div>
+        <div class="meta-box"><span class="meta-value">${state.data.rounds.length}</span><span class="meta-label">세트</span></div>
         <div class="meta-box"><span class="meta-value">${state.data.totalQuestions}</span><span class="meta-label">문제</span></div>
         <div class="meta-box"><span class="meta-value">${issueCount}</span><span class="meta-label">원본 확인 문제</span></div>
       </div>
     </section>
   `);
 
+  if (!state.selectedRoundId && state.data.rounds.length > 0) {
+    state.selectedRoundId = state.data.rounds[0].id;
+  }
   const select = document.querySelector("#roundSelect");
   select.value = state.selectedRoundId;
   select.addEventListener("change", (event) => {
@@ -78,9 +82,8 @@ function renderHome() {
 }
 
 function startQuiz() {
-  state.quizQuestions = state.selectedRoundId === "all"
-    ? [...state.data.questions]
-    : state.data.questions.filter((question) => question.roundId === state.selectedRoundId);
+  const roundId = state.selectedRoundId || state.data.rounds[0]?.id;
+  state.quizQuestions = state.data.questions.filter((question) => question.roundId === roundId);
 
   state.currentIndex = 0;
   state.selectedIndex = null;
@@ -98,7 +101,7 @@ function renderQuestion() {
 
   const question = state.quizQuestions[state.currentIndex];
   const progress = Math.round(((state.currentIndex + 1) / state.quizQuestions.length) * 100);
-  const pdfLink = question.hasTextExtractionIssue
+  const originalPdfButton = question.hasTextExtractionIssue
     ? `<a class="ghost-button" href="${question.sourcePdf}" target="_blank" rel="noreferrer">원본 PDF 보기</a>`
     : "";
 
@@ -131,12 +134,9 @@ function renderQuestion() {
       <div class="top-bar">
         <div>
           <div class="progress-text">${state.currentIndex + 1} / ${state.quizQuestions.length}</div>
-          <div class="round-text">${question.roundDate} 회차 · ${question.number}번</div>
+          <div class="round-text">${escapeHtml(question.roundTitle || `${question.roundDate} 회차`)} · ${question.number}번</div>
         </div>
-        <div class="top-bar-actions">
-          ${pdfLink}
-          <button class="ghost-button" id="homeButton">처음으로</button>
-        </div>
+        ${originalPdfButton}
       </div>
       <div class="progress-track"><div class="progress-fill" style="width: ${progress}%"></div></div>
       <h2 class="question-title">Q${question.number}. ${escapeHtml(question.question)}</h2>
@@ -144,6 +144,7 @@ function renderQuestion() {
       <div class="choice-list">${choices}</div>
       ${feedback}
       <div class="bottom-actions">
+        <button class="secondary-button" id="homeButton">처음으로</button>
         ${nextButton}
       </div>
     </section>
@@ -163,12 +164,16 @@ function renderFeedback(question) {
   const isCorrect = state.selectedIndex === question.answerIndex;
   const correctLabel = choiceLabels[question.answerIndex] ?? `${question.answerIndex + 1}번`;
   const correctChoice = question.choices[question.answerIndex];
+  const explanation = question.explanation
+    ? `<p class="explanation">${escapeHtml(question.explanation)}</p>`
+    : "";
 
   if (isCorrect) {
     return `
       <div class="feedback correct">
         <strong>정답입니다!</strong>
         <div>정답: ${correctLabel} ${escapeHtml(correctChoice)}</div>
+        ${explanation}
       </div>
     `;
   }
@@ -177,6 +182,7 @@ function renderFeedback(question) {
     <div class="feedback wrong">
       <strong>틀렸습니다.</strong>
       <div>정답: ${correctLabel} ${escapeHtml(correctChoice)}</div>
+      ${explanation}
     </div>
   `;
 }
@@ -207,7 +213,7 @@ function renderResult() {
   const total = state.quizQuestions.length;
   const percent = total === 0 ? 0 : Math.round((state.correctCount / total) * 100);
   const wrongList = state.wrongQuestions.slice(0, 10).map((question) => `
-    <li>${question.roundDate} · ${question.number}번: ${escapeHtml(question.question)}</li>
+    <li>${escapeHtml(question.roundTitle || question.roundDate)} · ${question.number}번: ${escapeHtml(question.question)}</li>
   `).join("");
 
   renderShell(`
