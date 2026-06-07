@@ -88,6 +88,17 @@ h1 {
   margin-bottom: 28px;
 }
 
+.source-credit {
+  display: inline-flex;
+  margin: -10px auto 26px;
+  padding: 8px 12px;
+  border-radius: 999px;
+  background: #f3eadf;
+  color: var(--primary-dark);
+  font-size: 13px;
+  font-weight: 800;
+}
+
 .home-controls {
   display: grid;
   gap: 14px;
@@ -189,13 +200,6 @@ select:focus, button:focus-visible {
   align-items: flex-start;
   gap: 16px;
   margin-bottom: 18px;
-}
-
-.top-bar-actions {
-  display: flex;
-  align-items: center;
-  gap: 4px;
-  flex-shrink: 0;
 }
 
 .progress-text {
@@ -330,6 +334,7 @@ select:focus, button:focus-visible {
 
 .bottom-actions {
   display: grid;
+  grid-template-columns: 1fr 1fr;
   gap: 10px;
   margin-top: 22px;
 }
@@ -378,4 +383,14 @@ select:focus, button:focus-visible {
   .meta-grid {
     grid-template-columns: 1fr;
   }
+
+  .bottom-actions {
+    grid-template-columns: 1fr;
+  }
+}
+
+.explanation {
+  margin: 10px 0 0;
+  line-height: 1.6;
+  color: #4b5563;
 }
