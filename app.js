@@ -132,7 +132,13 @@ function renderQuestion() {
   renderShell(`
     <section class="card">
       <div class="top-bar">
-        <div>
+        <button class="back-button" id="homeButton">
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+            <path d="M10 12L6 8l4-4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          처음으로
+        </button>
+        <div class="top-bar-right">
           <div class="progress-text">${state.currentIndex + 1} / ${state.quizQuestions.length}</div>
           <div class="round-text">${escapeHtml(question.roundTitle || `${question.roundDate} 회차`)} · ${question.number}번</div>
         </div>
@@ -143,17 +149,18 @@ function renderQuestion() {
       ${warning}
       <div class="choice-list">${choices}</div>
       ${feedback}
-      <div class="bottom-actions">
-        <button class="secondary-button" id="homeButton">처음으로</button>
-        ${nextButton}
-      </div>
+      ${nextButton ? `<div class="bottom-actions">${nextButton}</div>` : ""}
     </section>
   `);
 
   document.querySelectorAll("[data-choice]").forEach((button) => {
     button.addEventListener("click", () => selectAnswer(Number(button.dataset.choice)));
   });
-  document.querySelector("#homeButton").addEventListener("click", renderHome);
+  document.querySelector("#homeButton").addEventListener("click", () => {
+    if (confirm("처음 화면으로 돌아가면 현재 진행 상황이 사라집니다.\n처음으로 돌아가시겠습니까?")) {
+      renderHome();
+    }
+  });
   const next = document.querySelector("#nextButton");
   if (next) {
     next.addEventListener("click", goNext);

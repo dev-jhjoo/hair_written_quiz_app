@@ -196,10 +196,36 @@ select:focus, button:focus-visible {
 
 .top-bar {
   display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  gap: 16px;
+  align-items: center;
+  gap: 12px;
   margin-bottom: 18px;
+}
+
+.back-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  flex-shrink: 0;
+  padding: 7px 12px;
+  border-radius: 12px;
+  background: transparent;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+  border: 1px solid var(--line);
+  transition: background 0.12s ease, color 0.12s ease, border-color 0.12s ease;
+}
+
+.back-button:hover {
+  background: var(--soft);
+  color: var(--primary-dark);
+  border-color: #d1ad8f;
+}
+
+.top-bar-right {
+  flex: 1;
+  text-align: right;
 }
 
 .progress-text {
@@ -333,9 +359,6 @@ select:focus, button:focus-visible {
 }
 
 .bottom-actions {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 10px;
   margin-top: 22px;
 }
 
@@ -377,16 +400,17 @@ select:focus, button:focus-visible {
   }
 
   .top-bar {
-    display: block;
+    flex-wrap: wrap;
+  }
+
+  .top-bar-right {
+    text-align: left;
   }
 
   .meta-grid {
     grid-template-columns: 1fr;
   }
 
-  .bottom-actions {
-    grid-template-columns: 1fr;
-  }
 }
 
 .explanation {
