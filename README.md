@@ -3,6 +3,9 @@
 첨부된 5개 회차 PDF를 `questions.json`으로 변환해서 만든 정적 웹앱입니다.
 백엔드 없이 `HTML + CSS + JavaScript + JSON`만 사용합니다.
 
+
+[라이브 웹페이지](https://hairdresser-written-exam.twojh.com/) · [프로젝트 소스](https://github.com/dev-jhjoo/hair_written_quiz_app)
+
 ## 포함 내용
 
 - 5개 회차
